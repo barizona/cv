@@ -27,7 +27,8 @@ format:
     link-external-newwindow: true
     canonical-url: https://barizona.github.io/cv/ # Set your GitHub Pages URL
   pdf:
-    extension: classic-cv # Use the classic-cv extension for PDF rendering
+    keep-tex: false # Optional: Keeps intermediate .tex for debugging
+  docx:
     keep-tex: false # Optional: Keeps intermediate .tex for debugging
 
 resources:

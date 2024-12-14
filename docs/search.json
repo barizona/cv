@@ -2,28 +2,28 @@
   {
     "objectID": "cv_en.html",
     "href": "cv_en.html",
-    "title": "",
+    "title": "Eszter Ari, PhD. habil.",
     "section": "",
-    "text": "PhD in Bioinformatics, Your University (Year)\n\nDissertation: “Evolutionary Genomics of Microorganisms.”\n\nMSc in Microbiology, Another University (Year)"
+    "text": "Item 1\nItem 2\n\nSub-item 1"
   },
   {
     "objectID": "cv_en.html#education",
     "href": "cv_en.html#education",
-    "title": "",
-    "section": "",
-    "text": "PhD in Bioinformatics, Your University (Year)\n\nDissertation: “Evolutionary Genomics of Microorganisms.”\n\nMSc in Microbiology, Another University (Year)"
+    "title": "Eszter Ari, PhD. habil.",
+    "section": "Education",
+    "text": "Education\n\nPhD in Bioinformatics, Your University (Year)\n\nDissertation: “Evolutionary Genomics of Microorganisms.”\n\nMSc in Microbiology, Another University (Year)"
   },
   {
     "objectID": "cv_en.html#professional-experience",
     "href": "cv_en.html#professional-experience",
-    "title": "",
+    "title": "Eszter Ari, PhD. habil.",
     "section": "Professional Experience",
     "text": "Professional Experience\n\nAssociate Professor, Bioinformatics, Your University (Year–Present)\n\nDesigned advanced courses in bioinformatics.\nPublished extensively in top journals.\n\nPostdoctoral Fellow, Evolutionary Biology, Research Institute (Year–Year)\n\nDeveloped computational tools for evolutionary analysis."
   },
   {
     "objectID": "cv_en.html#skills",
     "href": "cv_en.html#skills",
-    "title": "",
+    "title": "Eszter Ari, PhD. habil.",
     "section": "Skills",
     "text": "Skills\n\nProgramming: Python, R, Bash\nTools: Quarto, LaTeX, Git\nSpecializations: Genomics, Phylogenetics, Data Visualization"
   },
