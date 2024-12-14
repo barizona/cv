@@ -2,7 +2,8 @@ project:
   type: website
   output-dir: docs # Output directory for GitHub Pages
   render:
-    - "cv.qmd" # Explicitly render cv.qmd
+    - "cv_en.qmd" # Explicitly render cv_en.qmd
+    - "cv_hu.qmd" # Explicitly render cv_hu.qmd
 
 website:
   page-footer:
