@@ -14,7 +14,7 @@ website:
   navbar:
     left:
       - text: "CV"
-        href: cv.html # Link to the CV webpage
+        href: index.html # Link to the CV webpage
 
 format:
   html:
