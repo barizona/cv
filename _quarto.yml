@@ -13,7 +13,9 @@ website:
         href: cv.pdf # Link to the PDF version of the CV
   navbar:
     left:
-      - text: "CV"
+      - text: "Curriculum Vitae in English"
+        href: index.html # Link to the CV webpage
+      - text: "Curriculum Vitae in Hunagrian"
         href: index.html # Link to the CV webpage
 
 format:
