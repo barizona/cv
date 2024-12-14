@@ -5,7 +5,7 @@ project:
     - "cv_en.qmd" # Explicitly render cv_en.qmd
     - "cv_hu.qmd" # Explicitly render cv_hu.qmd
   post-render:
-    - mv docs/cv_en.html docs/index.html
+    - cp docs/cv_en.html docs/index.html
 
 website:
   page-footer:
