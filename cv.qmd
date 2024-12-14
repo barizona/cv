@@ -1,0 +1,21 @@
+## Education
+
+- **PhD in Bioinformatics**, Your University (Year)
+  - Dissertation: "Evolutionary Genomics of Microorganisms."
+
+- **MSc in Microbiology**, Another University (Year)
+
+## Professional Experience
+
+- **Associate Professor**, Bioinformatics, Your University (Year–Present)
+  - Designed advanced courses in bioinformatics.
+  - Published extensively in top journals.
+
+- **Postdoctoral Fellow**, Evolutionary Biology, Research Institute (Year–Year)
+  - Developed computational tools for evolutionary analysis.
+
+## Skills
+
+- Programming: Python, R, Bash
+- Tools: Quarto, LaTeX, Git
+- Specializations: Genomics, Phylogenetics, Data Visualization

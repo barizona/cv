@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "",
+    "section": "",
+    "text": "PhD in Bioinformatics, Your University (Year)\n\nDissertation: “Evolutionary Genomics of Microorganisms.”\n\nMSc in Microbiology, Another University (Year)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "",
+    "section": "",
+    "text": "PhD in Bioinformatics, Your University (Year)\n\nDissertation: “Evolutionary Genomics of Microorganisms.”\n\nMSc in Microbiology, Another University (Year)"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nAssociate Professor, Bioinformatics, Your University (Year–Present)\n\nDesigned advanced courses in bioinformatics.\nPublished extensively in top journals.\n\nPostdoctoral Fellow, Evolutionary Biology, Research Institute (Year–Year)\n\nDeveloped computational tools for evolutionary analysis."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, R, Bash\nTools: Quarto, LaTeX, Git\nSpecializations: Genomics, Phylogenetics, Data Visualization"
+  }
+]

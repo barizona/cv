@@ -1,21 +1,21 @@
-profile:
-  default: development
 project:
   type: website
-  pre-render:
-    - ./pre-render.py
-  post-render:
-    - ./post-render.py
+  output-dir: docs # Output directory for GitHub Pages
   render:
-    - "RESUME.md"
+    - "cv.qmd" # Explicitly render cv.qmd
+
 website:
   page-footer:
     border: true
     background: dark
-    center: 
+    center:
       - text: "<b>Download PDF</b>"
-        href: /index.pdf
-format-links: false
+        href: cv.pdf # Link to the PDF version of the CV
+  navbar:
+    left:
+      - text: "CV"
+        href: cv.html # Link to the CV webpage
+
 format:
   html:
     theme:
@@ -23,10 +23,10 @@ format:
       dark: darkly
     css: styles.css
     link-external-newwindow: true
-    canonical-url: true
-  pdf: default
+    canonical-url: https://barizona.github.io/cv/ # Set your GitHub Pages URL
+  pdf:
+    extension: classic-cv # Use the classic-cv extension for PDF rendering
+    keep-tex: false # Optional: Keeps intermediate .tex for debugging
+
 resources:
-  - CNAME
-
-
-
+  - CNAME # Include if you have a custom domain (optional)
