@@ -15,7 +15,7 @@ website:
   navbar:
     left:
       - text: "Curriculum Vitae in English"
-        href: index.html # Link to the CV webpage
+        href: cv_en.html # Link to the CV webpage
       - text: "Curriculum Vitae in Hunagrian"
         href: cv_hu.html # Link to the CV webpage
 
