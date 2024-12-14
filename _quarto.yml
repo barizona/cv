@@ -11,16 +11,11 @@ website:
   page-footer:
     border: true
     background: dark
-    center:
-      - text: "<b>Download English CV as PDF</b>"
-        href: cv_en.pdf # Link to the English CV PDF
-      - text: "<b>Download Hungarian CV as PDF</b>"
-        href: cv_hu.pdf # Link to the Hungarian CV PDF
   navbar:
     left:
-      - text: "Curriculum Vitae in English"
+      - text: "🇬🇧 Curriculum Vitae in English"
         href: index.html # Link to the CV webpage
-      - text: "Curriculum Vitae in Hunagrian"
+      - text: "🇭🇺 Curriculum Vitae in Hunagrian"
         href: cv_hu.html # Link to the CV webpage
 
 format:
