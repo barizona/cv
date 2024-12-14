@@ -17,7 +17,7 @@ website:
       - text: "Curriculum Vitae in English"
         href: index.html # Link to the CV webpage
       - text: "Curriculum Vitae in Hunagrian"
-        href: index.html # Link to the CV webpage
+        href: cv_hu.html # Link to the CV webpage
 
 format:
   html:
