@@ -27,6 +27,7 @@ format:
     link-external-newwindow: true
     canonical-url: https://barizona.github.io/cv/ # Set your GitHub Pages URL
   pdf:
+    # mainfont: Proxima Nova
     keep-tex: false # Optional: Keeps intermediate .tex for debugging
   docx:
     keep-tex: false # Optional: Keeps intermediate .tex for debugging
