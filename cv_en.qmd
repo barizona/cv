@@ -1,42 +1,299 @@
+# *Curriculum Vitae* of Eszter Ari
 
-- Item 1
-- Item 2
-    - Sub-item 1
+Bioinformatician Researcher, University Teacher
 
+[arieszter\@gmail.com](mailto:arieszter@gmail.com)
 
-1. First item
-2. Second item
-    1. Nested item
+Websites:
 
+-   Group website: [Bioinformatics Research Group at Eötvös Loránd University (ELTE), Budapest, H](https://genet.elte.hu/bioinformatics)
+-   Personal website at [ELTE, Budapest, H](https://genet.elte.hu/en/content/ari-eszter.t.16148)
+-   Personal website at [Biological Research Centre, Szeged, H](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
+-   Public pages: ![Researchgate](images/ResearchGate_icon_SVG.png){width="24"} ![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"} ![ResearcherID](images/web_of_science.png){width="22"} ![Scopus](images/scopus.png){width="24"} ![MTMT](images/mtmt.jpg){width="24"} ![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"} ![BlueSky](images/Bluesky_Logo.svg.png){width="27"}
 
-# Eszter Ari, PhD. habil.
+# Positions
 
--   Bioinformatician Researcher, University Teacher
+## Present
 
--   [arieszter\@gmail.com](mailto:arieszter@gmail.com)
+**Associate professor –** **Eötvös Loránd University (ELTE), Department of Genetics**
 
--   Personal websites: at [Eötvös L. Univ., Budapest](https://genet.elte.hu/en/content/ari-eszter.t.16148); at [Biological Research Centre, Szeged](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
+> H-1117, Pázmány Péter stny 1/C, Budapest, Hungary
 
--   Group website: [Bioinformatic Research Group at Eötvös L. Univ., Budapest](https://genet.elte.hu/bioinformatic)
+-   2025 - PRESENT Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
+-   2019 - 2025 assistant professor
+-   2009 - 2019 assistant lecturer
+-   2007 - 2009 scientific research associate
 
--   Public pages: [Researchgate](https://www.researchgate.net/profile/Eszter_Ari); [ORCiD](https://orcid.org/0000-0001-7774-1067); [ResearcherID](https://www.webofscience.com/wos/author/record/B-2074-2012); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26633642900); [MTMT](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng); [Twitter](https://twitter.com/EszterAri)
+**Research fellow – HUN-REN**[^cv_en-1] **Biological Research Centre (BRC), Institute of Biochemistry, Szeged**
 
-## Education
+[^cv_en-1]: Formal names: Eötvös Loránd Research Network (ELKH); Research Network of the Hungarian Academy of Science (HAS)
 
--   **PhD in Bioinformatics**, Your University (Year)
-    -   Dissertation: "Evolutionary Genomics of Microorganisms."
--   **MSc in Microbiology**, Another University (Year)
+> H-6726, Temesvári krt. 62, Szeged, Hungary
 
-## Professional Experience
+-   2016 - PRESENT Investigating the evolution of antibiotic resistance and virulence using phylogenetic and comparative genomics approaches in Balázs Papp’s Lab, from 2020 as a project leader.
 
--   **Associate Professor**, Bioinformatics, Your University (Year–Present)
-    -   Designed advanced courses in bioinformatics.
-    -   Published extensively in top journals.
--   **Postdoctoral Fellow**, Evolutionary Biology, Research Institute (Year–Year)
-    -   Developed computational tools for evolutionary analysis.
+**Research fellow – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolic Systems Biology Research Group, Szeged**
 
-## Skills
+-   2019 - PRESENT
 
--   Programming: Python, R, Bash
--   Tools: Quarto, LaTeX, Git
--   Specializations: Genomics, Phylogenetics, Data Visualization
+## Formerly
+
+**Postdoctoral researcher – Univ. of Veterinary Medicine (Vet-Med Uni), Institut für Populationsgenetik, Vienna, A**
+
+-   2012 - 2014 Analysing the RNA-seq data of thermal adapted fruit fly populations in Christian Schlötterer’s Lab.
+
+# Degrees & Dipliomas
+
+-   **Habilitation**: ELTE, Budapest, H, 2023
+-   **PhD**: Biology Doctoral School, Theoretical and Evolutionary Biology Doctoral Programme, ELTE, Budapest, H, 2012
+-   **Bachelor and Master**: Majoring in Applied Zoology, Faculty of Veterinary Sciences[^cv_en-2], Szent István University, Budapest, H, 1999 - 2004
+
+[^cv_en-2]: Formal and actual name: University of Veterinary Medicine
+
+# Awards & Scholarships
+
+-   Outstanding scientific publication award from Excellence Fund of Eötvös Loránd University, 2024 and 2022, Budapest, H
+-   Junior fellowship at Collegium Budapest – Institute for Advanced Study, 2009, Budapest, H
+-   Scholarship of the Fac. Veterinary Sci., Szent István Univ., 2003 - 2004, Budapest, H
+-   2nd Prize of the Conference for Student Scientists at Fac. Veterinary Sci., Szent István Univ., 2003, Budapest, H
+
+# Grants
+
+-   **Supported Research Groups Programme 2025-2028**: Role: co-applicant; Title: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; Lead researcher: Papp Balázs; Number: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
+-   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme** **2020 - 2023**: Role: Principal investigator; Title: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; Nr. [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
+-   **Promoting Excellence in Education, ELTE 2020**: Role: PI; Title: Development of the infrastructure of the computer practical room; 4,000,000 HUF
+-   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**; Role: Supervisor; Connected to the fellowship of Zeljko Popovic; Title: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
+
+# Teaching Activities
+
+## Present
+
+-   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
+-   [Advanced R programming](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (P; EN) – for Master students
+-   [Analysis of Omics data](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (P; EN) – for Master students
+-   Bioinformatic seminars (L; EN) – for PhD students
+
+## Formerly
+
+-   Introduction to Bioinformatics (L; HU) – for Bachelor students
+-   Genetic lab. practices (selected P; EN, HU) – for Bachelor students
+-   Genomics (selected L; EN, HU) – for Master students
+-   Molecular evolution (selected L; HU) – for Master students
+-   Evolutionary biology (selected L; HU) – for Master students
+-   Discrete mathematical methods in biology (L, P; HU) – for Master and PhD students
+
+# Supervising & Metoring
+
+-   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
+-   **Graduated students**: 2 co-supervised PhD, 6 Master, 12 Bachelor, and 3 Scientific Student Association students
+-   **At present**: Co-supervising 4 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
+-   **Visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
+
+# Main Workshops
+
+## As lecturer
+
+-   *ELTE Carpathian Basin Hungarian Summer University*, 2022: Genetic analysis of the virus variants determining the COVID epidemic in Hungary
+-   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Vienna, A: Practicals about RNA-seq data analysis
+
+## As participant
+
+-   *EMBO Training: Laboratory Leadership Course*, 2024, Budapest, H
+-   *An R Reproducibility Toolkit for the practical researcher*, 2022, online
+-   *8th International Course in Microbial Ecology – Microbiome Metagenome Analysis*, 2017, CNR-ISE, Verbania, I
+-   *EMBO course: Bioinformatics and Comparative Genome Analyses*, 2011, Inst. Pasteur Paris, F
+-   *Computational Phyloinformatics Course*, 2008, Duke Univ., Durham, NC, USA
+-   *Workshop on Molecular Evolution*, 2006, Marine Biological Lab., Woods Hole, MA, USA
+
+# Memberships
+
+-   [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home), 2016 – a member of the directory board; 2006 – member
+-   Hungarian Academy of Sciences, Interdepartmental Scientific Committee on Bioinformatics, 2021 – committee member
+-   Hungarian node of the [Elixir Europe](https://elixir-europe.org/about-us/who-we-are/nodes/hungary), 2023 – lead researcher
+-   [Institute of Scientific Computing, Society](https://scicomp.hu/?lang=en) (SciComp) membership, 2024
+-   Hungarian Academy of Sciences, 2013 – a member of the public body (ID: 31344)
+
+# Languages
+
+-   Hungarian – mother tongue
+-   English – C1 level
+-   Italian – A1 level
+
+# Areas of Interest
+
+-   Bioinformatics
+-   Evolutionary Biology
+-   Antibiotic Resistance
+-   Comparative genomics
+-   Molecular phylogenetics
+-   Metagenomics
+-   Transcriptomics
+-   Transcriptional regulation
+-   Data analysis
+
+# Professional Skills
+
+-   Developing and using different bioinformatic methods, software and pipelines.
+-   *R* programming language – professional level
+-   *Linux Shell* scripting – intermediate level
+
+# Editing & Reviewing
+
+-   [Topic editor in Frontiers in Systems Biology](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
+-   Reviewer in journals: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
+-   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (3)
+
+# Popularising Science
+
+-   Presenting at the Festival of ELTE: Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. 2022, Budapest, H
+-   Creating a website for The genomic epidemiology of SARS-CoV-2 in Hungary
+-   Presenting at Capital of Science “Tudományok Fővárosa”: The genomic epidemiology of SARS-CoV-2 in Hungary, 2020, Budapest, H
+-   Presenting at Night of Scientists “Kutatók Éjszakája”, 2018 and 2020
+
+# Scientific Websites
+
+-   Supervising the creation of the [TFLink](https://tflink.net/), a transcription factor - target gene database.
+-   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) R packages for functional enrichment analysis and dataset.
+
+# Publications
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+# read google sheet
+library(googlesheets4)
+library(dplyr)
+pub_tab <- read_sheet("https://docs.google.com/spreadsheets/d/13qXhW8yNd6KSlE3Taaus-cBUx7O0XkFCkw_IGgVTWNo/edit?usp=sharing")
+nr_of_papers <- pub_tab$Nr_published_papers[1]
+```
+
+[![Google](images/Google_Scholar_logo.svg.png){fig-alt="Google Scholar" width="24"}](https://scholar.google.com/citations?user=cYCKyr0AAAAJ) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng)
+
+-   Nr. of published papers: `r {{ nr_of_papers }}` (D1: 17 + Q1: 5)
+-   Nr. of first, last or corresponding author publications: **8**, Cumulative impact factor of these publications: **47.22**
+-   Cumulative impact factor of all publications (IF): **218.56**
+-   Independent citations of all publications (IC): **543**
+-   h-index: **14**
+
+## Preprints
+
+Balogh GM, Koncz B, Asztalos L, **Ari E**, Papp B, Szebeni GJ, Gémes N, Pál C & Manczinger M (2024) APOBEC3-associated mutations generate immunogenic peptides in SARS-CoV-2. *Nature Communications*, under review
+
+## Published
+
+Daruka L, Czikkely MS, Szili P, Farkas Z, Balogh D, Maharramov E, Vu TH, Sipos L, Vincze BD, Grézal G, Juhász Sz, Dunai A, Daraba A, Számel M, Sári T, Stirling T, Vásárhelyi BM, **Ari E**, Christodoulou C, Manczinger M, Enyedi MZs, Jaksa G, van Houte S, Pursey E, Papp CG, Szilovics Z, Pintér L, Haracska L, Gácser A, Kintses B, Papp B, Pál Cs (2024) ESKAPE pathogens rapidly develop resistance against antibiotics in development. *Nature Microbiology*, accepted (preprint: bioRxiv, 2023, [2023.07.23.550022](https://doi.org/10.1101/2023.07.23.550022)) **D1, IF: 20.5, IC: 3**
+
+Turek C, Ölbei M, Stirling T, Fekete G, Tasnádi E, Gul L, Bohár B, Papp B, Jurkowski W & **Ari E\*** (2024) [mulea - an R package for enrichment analysis using various ontologies and empirical false discovery rate](https://doi.org/10.1186/s12859-024-05948-7). BMC Bioinformatics, 25(1): 334. **Q1, IF: 2.9** **(\*corresponding author)**
+
+Koncz M, Stirling T, Mehdi HH, Méhi O, Eszenyi B, Asbóth A, Apjok G, Tóth Á, Orosz L, Vásárhelyi BM, **Ari E**, Daruka L, Polgár TF, Schneider Gy, Zalokh SA, Számel M, Fekete G, Bohár B, Nagy Varga K, Visnyovszki Á, Székely E, Licker MS, Izmendi O, Costache C, Gajic I, Lukovic B, Molnár Sz, Szőcs-Gazdi UO, Bozai Cs, Indreas M, Kristóf K, Van der Henst C, Breine A; Pál C, Papp B & Kintses B (2024) [Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens](https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4). Cell, 187(21) 5901 - 5918.e28, **D1, IF: 45.5, IC: 1**
+
+Gerber D, Szeifert B, Székely O, Egyed B, Gyuris B, Giblin JI, Horváth A, Köhler K, Kulcsár G, Kustár Á, Major I, Molnár M, Palcsu L, Szeverényi V, Fábián S, Mende BG, Bondár M, **Ari E\***, Kiss V\* & Szécsényi-Nagy A\* (2023) [Interdisciplinary analyses of Bronze Age communities from Western Hungary reveal complex population histories.](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad182/7240678) Molecular Biology and Evolution, 40(9): msad182. **D1, IF: 11.0, IC: 6 (\*shared corresponding authorship)**
+
+Bacsur P, Rutka M, Resál T, Szántó K, Jójárt B, Bálint A, **Ari E**, Walliyulah A, Kintses B, Fehér T, Asbóth A, Pigniczki D, Bor R, Fábián A, Maléth J, Szepes Z, Farkas K & Molnár T (2023) [Effects of bowel cleansing on the composition of the gut microbiome in inflammatory bowel disease patients and healthy controls](https://journals.sagepub.com/doi/full/10.1177/17562848231174298). Therapeutic Advances in Gastroenterology, 16: 1-13. **Q1, IF: 3.9, IC: 3**
+
+Sturm Á, Saskői É, Hotzi B, Tarnóci A, Barna J, Bodnár F, Sharma H, Kovács T, **Ari E**, Weinhardt N, Kerepesi C, Perczel A, Ivics Z & Vellai T (2023) [Downregulation of transposable elements extends lifespan in Caenorhabditis elegans.](https://doi.org/10.1038/s41467-023-40957-9) Nature Communications, 14(1): 5278. **D1, IF: 17.7, IC: 10**
+
+**Ari E**, Vásárhelyi BM, Kemenesi G, Tóth GE, Zana B, Somogyi B, Lanszki Z, Röst G, Jakab F,  Papp B & Kintses B (2022) [A single early introduction governed viral diversity in the second wave of SARS-CoV-2 epidemic in Hungary](https://doi.org/10.1093/ve/veac069). Virus Evolution, 8(2): veac069. **D1, IF: 5.3, IC: 3**
+
+Csabai L, Fazekas D, Kadlecsik T, Szalay-Bekő M, Bohár B, Madgwick M, Módos D, Ölbei M, Gul L, Sudhakar P, Kubisch J, Oyeyemi OJ, Liska O, **Ari E**, Hotzi B, Billes VA, Molnár E, Földvári-Nagy L, Csályi K, Demeter A, Pápai N, Koltai M, Varga M, Lenti K, Farkas IJ, Türei D, Csermely P, Vellai T & Korcsmáros T (2022) [SignaLink3: A multi-layered resource to uncover tissue-specific signaling networks](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab909/6389625). Nucleic Acids Research, 50(D1): 701-709. **D1, IF: 14.9, IC: 22**
+
+Liska O, Bohár B, Hidas H, Korcsmáros T, Papp B, Fazekas D & **Ari E\*** (2022) [TFLink: An integrated gateway to access transcription factor - target gene interactions for multiple species](https://doi.org/10.1093/database/baac083). Database, 2022, baac083. **“High impact paper” according to [scientometrics.org](http://scientometrics.org).** **D1, IF: 5.8, IC: 62 (\*corresponding author)**
+
+Bálint A, Farkas K, Kintses B, Méhi O, Vásárhelyi BM, **Ari E**, Pál C, Madácsy T, Maléth J, Szántó KJ, Nagy I, Rutka M, Bacsur P, Szűcs D, Szepes Z, Nagy F, Fábián A, Bor R, Milassin Á & Molnár T (2020) [Functional anatomical changes in ulcerative colitis patients determine their gut microbiota composition and consequently the possible treatment outcome](https://www.mdpi.com/1424-8247/13/11/346/htm). Pharmaceuticals, 13(11): 346-362. **D1, IF: 5.68, IC: 17**
+
+Kintses B, Jangir PK, Fekete G, Számel M, Méhi O, Spohn R, Daruka L, Martins A, Hosseinnia A, Gagarinova A, Kim S, Phanse S, Csörgö B, Györkei Á, **Ari E**, Lázár V, Faragó A, Nagy I, Babu M, Pál C & Papp B (2019) [Chemical-genetic profiling reveals limited cross-resistance between antimicrobial peptides with different modes of action](https://www.nature.com/articles/s41467-019-13618-z). Nature Communications, 10: 5731. **D1, IF: 12.12, IC: 33**
+
+Kintses B\*, Méhi O\*, **Ari E\***, Számel M, Györkei Á, Jangir PK, Nagy I, Pál F, Fekete G, Tengölics R, Nyerges Á, Likó I, Bálint A, Molnár T, Bálint B, Vásárhelyi BM, Bustamante M, Papp B & Pál C (2019) [Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota](https://www.nature.com/articles/s41564-018-0313-5). Nature Microbiology, 4(3): 447-458. **Craig MacLean recommended it in [F1000Prime](https://facultyopinions.com/prime/734649950#eval793557383) as being of special significance in its field. It was selected as a part of the [Nature Gut Microbiota core collection](https://www.nature.com/collections/gjdhfgjiid).** **D1, IF: 15.54, IC: 74 (\*shared first authorship)**
+
+Sudhakar P, Claire-Jacomin A, Hautefort I, Samavedam S, Fatemian K, **Ari E**, Gul L, Demeter A, Jones E,  Korcsmaros T & Nezis JP (2019) [Targeted interplay between bacterial pathogens and host autophagy](https://www.tandfonline.com/doi/full/10.1080/15548627.2019.1590519). Autophagy, 15(9): 1620-1633. **D1, IF: 11.06, IC: 40**
+
+Sun D, Ren X, **Ari E**, Korcsmaros T, Csermely P & Wu L-Y (2019) [Discovering cooperative biomarkers for heterogeneous complex disease diagnoses](https://academic.oup.com/bib/article-abstract/20/1/89/4079498?redirectedFrom=fulltext). Briefings in Bioinformatics, 20(1): 89-101. **D1, IF: 9.10, IC: 14**
+
+Nyerges Á, Csörgő B, Draskovits G, Kintses B, Szili P, Ferenc Gy, Révész T, **Ari E**, Nagy I, Bálint B, Vásárhelyi BM, Bihari P, Számel M, Balogh D, Papp H, Kalapis D, Papp B & Pál C (2018) [Directed evolution of multiple genomic loci allows the prediction of antibiotic resistance](https://www.pnas.org/content/115/25/E5726). Proceedings of the National Academy of Sciences of the United States of America, 115(25): E5726-E5735. **D1, IF: 9.58, IC: 73**
+
+Fodor E, Sigmond T, **Ari E**, Lengyel K, Takács-Vellai K, Varga M & Vellai T (2017) [Methods to study autophagy in zebrafish](https://www.sciencedirect.com/science/article/pii/S0076687916303949). Methods in Enzymology 588: 467-96. **Q1, IF: 1.48, IC: 19**
+
+Métris A, Sudhakar P, Fazekas D, Demeter A, **Ari E**, Ölbei M, Branchu P, Kingsley RA, Baranyi J & Korcsmáros T (2017) [SalmoNet, an integrated network of ten Salmonella enterica strains reveals common and distinct pathways to host adaptation](https://www.nature.com/articles/s41540-017-0034-z). Npj Systems Biology and Applications 3(1): s41540-17-34-NaN-17. **Q1, IF: 3.81, IC: 27**
+
+Ricotta C, **Ari E**, Bonanomi G, Giannino F, Heathfield D, Mazzoleni S & Podani J (2017) [Spatial analysis of phylogenetic community structure: New version of a classical method](https://akjournals.com/view/journals/168/18/1/article-p37.xml). Community Ecology. 18(1): 37-46. (preprint: 2015, PeerJ PrePrints e1145) **Q2, IF: 0.98, IC: 2**
+
+Ács É, **Ari E**, Duleba M, Dressler M, Genkal SI, Jakó É, Rimet F, Ector L & Kiss KT (2016) [Pantocsekiella, a new centric diatom genus based on morphological and genetic studies](https://fottea.czechphycology.cz/artkey/fot-201601-0006_pantocsekiella_a_new_centric_diatom_genus_based_on_morphological_and_genetic_studies.php). Fottea 16(1): 56-78. **Q2, IF: 0.6, IC: 50**
+
+**Ari E\*** & Jakó É (2016) [Classification of tRNA isoacceptor sequences by using graph-based molecular descriptors](https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.2781). Journal of Chemometrics 30(1): 182-187. **Q2, IF: 2.03 (\*corresponding author)**
+
+Módos D, Brooks J, Fazekas D, **Ari E**, Vellai T, Csermely P, Korcsmáros T & Lenti K (2016) [Identification of critical paralog groups with indispensable roles in the regulation of signaling flow](https://www.nature.com/articles/srep38588). Scientific Reports 6: 38588. **D1, IF: 4.62, IC: 6**
+
+Földvári-Nagy L, **Ari E**, Csermely P, Korcsmáros T & Vellai T (2014) [Starvation-response may not involve Atg1-dependent autophagy induction in non-unikont parasites](https://www.nature.com/articles/srep05829). Scientific Reports 4: 5829. **D1, IF: 5.85, IC: 16**
+
+**Ari E\***, Ittzés P, Podani J, Le Thi QC & Jakó É (2012) [Comparison of Boolean analysis and standard phylogenetic methods using artificially evolved and natural mt-tRNA sequences from great apes](https://www.sciencedirect.com/science/article/abs/pii/S1055790312000279). Molecular Phylogenetics and Evolution 63(1): 193-202. **D1, IF: 4.42, IC: 5 (\*corresponding author)**
+
+Boros G, Cech G, **Ari E** & Dózsa-Farkas K (2010) [Extension of employing ITS region in the investigation of Hungarian Fridericia species (Oligochaeta: Enchytraeidae)](https://www.tandfonline.com/doi/abs/10.1080/09397140.2010.10638454). Zoology in the Middle East 51(sup2): 23-30. **Q3, IF: 0.3, IC: 2**
+
+Tihanyi B, Vellai T, Regős Á, **Ari E**, Müller F & Takács-Vellai K (2010) [The C. elegans Hox gene ceh-13 regulates cell migration and fusion in a non-colinear way. Implications for the early evolution of Hoxclusters](https://bmcdevbiol.biomedcentral.com/articles/10.1186/1471-213X-10-78). BMC Developmental Biology 10(1): 78-92. **Q1, IF: 2.78, IC: 26**
+
+Jakó É, **Ari E**, Ittzés P, Horváth A & Podani J (2009) [BOOL-AN: A method for comparative sequence analysis and phylogenetic reconstruction](https://www.sciencedirect.com/science/article/abs/pii/S1055790309001584). Molecular Phylogenetics and Evolution 52(3): 887-897. **D1, IF: 3.88, IC: 29**
+
+**Ari E**, Ittzés P, Podani J & Jakó É (2008) [Phylogenetic tree reconstruction with a new discrete mathematical method](https://www.researchgate.net/publication/216330267_Phylogenetic_Tree_Reconstruction_with_a_New_Discrete_Mathematical_Method). Kitaibelia 13: 209-211. (in Hungarian) **Q2, IF: 0.23**
+
+# **ORAL PRESENTATIONS IN CONFERENCES**
+
+### **Nr. of international conference talks: 9; Nr. of national conference talks: 6; As an invited speaker\*: 3**
+
+Ari E, et al. (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [SciComp24 Conference](https://indico.wigner.hu/event/1583/overview), 17-19 October. Szeged, H
+
+Ari E, et al. (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli. [3rd HCEMM PhD-POSTDOC Symposium](https://www.hcemm.eu/news/2023/11/3rd-hpps-phd-postdoc-symposium-keszthely/), 8-9 November. Keszthely, H
+
+Ari E, et al. (2022) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli. [1st Bioinformatics and Data Science in Genomic Studies (BDG2022)](https://konferencia.unideb.hu/en/BDG2022) online conference, 25 Nov, University of Debrecen, H
+
+Ari E, et al. (2022) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli. Bioinformatics, Celebrating the Hungarian Science, 11 Nov, HAS, Research Centre for Natural Sciences, Budapest, H
+
+Ari E\*, Kintses B (2020) Methods to investigate the microbiome and understand the results. Meeting of Hungarian Society for Gastroenterology, Section Colon, 6-7 March, Visegrád, H
+
+Ari E, et al. (2019) Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota. EvolBiol Day, 17 Apr, Szeged, H
+
+Ari E\*, et al. (2018) How well do the antimicrobial peptide resistance genes spread? Bioinformatics, Celebrating the Hungarian Science, 16 Nov, HAS, Research Centre for Natural Sciences, Budapest, H
+
+Ari E: (2017) MulEA – A tool for multi-enrichment analysis, 2nd Interdisciplinary Signaling Workshop, 17-21 July, Visegrád, H
+
+Ari E\*: (2012) Molecular phylogenetic reconstructions with a discrete mathematical method, the Boolean analysis. International Congress, Hungarian Society for Microbiology, 24-26 Oct, Keszthely, H
+
+Ari E & Jakó É (2012) Comparison of Boolean analysis and standard phylogenetic methods using artificially evolved and natural mt-tRNA sequences from great apes. 9th Joint Conference on Mathematics and Computer Science, 9-12 Feb, Siófok, H
+
+Ari E, et al. (2007) Boolean analysis: A new discrete mathematical method for phylogenetic reconstruction. From Molecular Informatics to Bioinformatics – International Symposium, 19-21 April, Collegium Budapest, H
+
+Ari E & Jakó É (2007) Testing a new discrete mathematical method for phylogenetic reconstruction. Evolution 2007 Conference, 16-20 June, Christchurch, NZ
+
+Ari E & Jakó É (2007) Testing a new discrete mathematical method for phylogenetic reconstruction. The Dumont D'Urville Workshop on Applied Evolutionary Bioinformatics, 24-27 June, Kaikoura, NZ
+
+Ari E, et al. (2007) Phylogenetic tree reconstruction with a new discrete mathematical method. Molecular taxonomic, phylogenetic and phylogeographic researches in Hungary, Meeting in memory of Sámuel Diószegi, 17 Nov, Debrecen, H
+
+Ari E (2006) Reconstructing the phylogenetic tree of great apes by using a new discrete mathematical method. 12th Annual European Meeting of PhD students in Evolutionary Biology, 4-9 Sep, St. Andrews, UK
+
+# **OTHER INVITED TALKS**
+
+Ari E\* (2017) Investigating the antimicrobial peptide resistome in the human gut microbiome: a metagenomic approach. University of Graz, Institute of Zoology, 15 Nov, Graz, A
+
+Ari E\*: (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. The Genome Analysis Centre, 23 Feb, Norwich, UK
+
+# **POSTER PRESENTATIONS IN CONFERENCES**
+
+### **Nr. of international conference posters: 9**
+
+Ari E, et al. (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli](https://indico.ictp.it/event/10210/material/4/0.pdf), [EMBO Workshop: Plasmids as vehicles of AMR spread](https://meetings.embo.org/event/23-amr-plasmids), 12-18 September, (Trieste, Italy) online
+
+Ari E, et al. (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli, [EMBO Workshop: Predicting evolution](https://www.embl.org/about/info/course-and-conference-office/events/pev23-01/), 11-14 July, Heidelberg, Germany
+
+Ari E, et al. (2022) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in E. coli](https://www.lamg.info/_files/ugd/2e355c_d62492daad5840479e27865c3233bfba.pdf). [Lake Arrowhead Microbial Genomics Conference](https://www.lamg.info/), 11-15 September, Lake Arrowhead, CA, USA
+
+Rutka M, Szántó K, Bacsur P, Resál T, Jójárt B, Bálint A, Ari E, Kintses B, Fehér T, Asbóth A, Pigniczki D, Bor R, Fábián A, Farkas K, Maléth J, Szepes Z & Molnár T (2022) [P713 Gut Microbiota Alterations after Bowel Preparation amongst Inflammatory Bowel Disease Patients](https://academic.oup.com/ecco-jcc/article/16/Supplement_1/i609/6513059). Journal of Crohn’s and Colitis, 16 (Supplement_1): i609. **Q1, IF: 9.07**
+
+Ari E, et al. (2019) [Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota](https://www.researchgate.net/publication/338231106_Phylogenetic_barriers_to_horizontal_transfer_of_AMP_resistance_genes). Gordon Research Conference on Molecular Mechanisms in Evolution, 9-14 June, Easton, MA, USA
+
+Ari E, et al. (2019) [Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota](https://www.researchgate.net/publication/338231106_Phylogenetic_barriers_to_horizontal_transfer_of_AMP_resistance_genes). Gordon Research Seminar on Molecular Mechanisms in Evolution, 8-9 June, Easton, MA, USA
+
+Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. Conferentia Chemometrica, 13-16 Sep, Budapest, H
+
+Ari E et al. (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. Annual Meeting of the Society for Molecular Biology and Evolution, 12-16 July, Vienna, A
+
+Ari E, et al. (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. Evolution of Biomolecular Structure, 25-27 May, Vienna, A
