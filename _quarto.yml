@@ -31,6 +31,8 @@ format:
   pdf:
     # mainfont: Proxima Nova
     keep-tex: false # Optional: Keeps intermediate .tex for debugging
+    linkcolor: "RoyalBlue"
+    urlcolor: "RoyalBlue"
   docx:
     keep-tex: false # Optional: Keeps intermediate .tex for debugging
 
