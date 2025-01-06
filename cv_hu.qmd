@@ -1,22 +1,317 @@
+::::: {layout="[0.7, 0.3]"}
+::: {#firstcol style="text-align: left;"}
+# *Curriculum Vitae* – Ari Eszter
+:::
 
-## TESZT
+::: {#secondcol style="text-align: right;"}
+![](images/Photo.png){width="100px"}
+:::
+:::::
 
-- **PhD in Bioinformatics**, Your University (Year)
-  - Dissertation: "Evolutionary Genomics of Microorganisms."
+Bioinformatikus kutató, Egyetemi oktató
 
-- **MSc in Microbiology**, Another University (Year)
+[arieszter\@gmail.com](mailto:arieszter@gmail.com)
 
-## Professional Experience
+**Weboldalak**
 
-- **Associate Professor**, Bioinformatics, Your University (Year–Present)
-  - Designed advanced courses in bioinformatics.
-  - Published extensively in top journals.
+-   Csoport weboldal: [Bioinformatika Kutatócsoport az Eötvös Loránd Tudományegyetemen (ELTE)](https://genet.elte.hu/bioinformatika)
+-   Személyes weboldal az [ELTE-n](https://genet.elte.hu/en/content/ari-eszter.t.16148)
+-   Személyes weboldal a [Szegedi Biológiai Kutatóközpontban](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
+-   Publikus helyek: ![Researchgate](images/ResearchGate_icon_SVG.png){width="24"} ![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"} ![ResearcherID](images/web_of_science.png){width="22"} ![Scopus](images/scopus.png){width="24"} ![MTMT](images/mtmt.jpg){width="24"} ![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"} ![BlueSky](images/Bluesky_Logo.svg.png){width="27"}
 
-- **Postdoctoral Fellow**, Evolutionary Biology, Research Institute (Year–Year)
-  - Developed computational tools for evolutionary analysis.
+# Munkahelyek
 
-## Skills
+## Aktuális
 
-- Programming: Python, R, Bash
-- Tools: Quarto, LaTeX, Git
-- Specializations: Genomics, Phylogenetics, Data Visualization
+**Egyetemi adjunktus – ELTE Eötvös Loránd Tudományegyetem, Genetikai Tanszék, Budapest**
+
+> 1117, Budapest, Pázmány Péter stny. 1/C
+
+-   2019 - : Többféle bioinformatikai kurzus fejlesztése és oktatása MSc és PhD hallgatók számára, szakdolgozati és PhD témavezetés. A *Molekuláris genetika, sejt- és fejlődésbiológia* MSc specializáció felelőse.
+-   2009 - 2019 tanársegéd
+-   2007 - 2009 tudományos segédmunkatárs
+
+**Tudományos munkatárs – HUN-REN**[^cv_hu-1]**, Szegedi Biológiai Kutatóközpont (SZBK), Biokémiai Intézet, Szeged**
+
+[^cv_hu-1]: Korábbi elnevezései: a Magyar Tudományos Akadémia (MTA) Kutatói Hálózata; Eötvös Loránd Kutatóhálózat (ELKH)
+
+> 6726, Szeged, Temesvári krt. 62
+
+-   2016 - : Az antibiotikum rezisztencia és a virulencia evolúciójának kutatása összehasonlító genomikai és filogenetikai módszerek segítségével, Papp Balázs csoportjában. 2020 óta projektvezetőként.
+
+**Tudományos munkatárs – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolikus Rendszerbiológia Kutatócsoport, Szeged**
+
+-   2019 -
+
+## Korábban
+
+**Posztdoktor kutató – Állatorvostudományi Egyetem (Vet-Med), Populációgenetikai Intézet, Bécs, A**
+
+-   2012 - 2014: Különböző hőmérséklethez adaptálódott muslica populációk RNA-Seq adatainak feldolgozása, Christian Schlötterer csoportjában.
+
+# Diplomák és Fokozatok
+
+-   **Habilitáció**: ELTE, Budapest, 2023
+-   **PhD**: Biológia Doktori Iskola, ELTE, Budapest, 2012
+-   **Egyetemi diploma** (osztatlan képzés): Szent István Egyetem (SZIE), Állatorvostudományi Kar[^cv_hu-2], Budapest, 2004
+
+[^cv_hu-2]: Korábbi és jelenlegi nevén: Állatorvostudományi Egyetem
+
+# Díjak és Ösztöndíjak
+
+-   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://www.elte.hu/content/az-egyetemi-kivalosagi-alapbol-tamogatott-palyazatok-2024.t.30890), 2024, Budapest
+-   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://biologia.elte.hu/content/intezeti-sikerek-az-egyetemi-kivalosagi-alap-palyazatan.t.31475), 2022, Budapest
+-   Junior fellowship, Collegium Budapest – Institute for Advanced Study, 2009, Budapest
+-   Az Állatorvostudományi Kar Ösztöndíja, Szent István Egyetem, 2003 - 2004, Budapest
+-   2\. helyezés az Állatorvostudományi Kar TDK Konferenciáján, Szent István Egyetem, 2003, Budapest
+
+# Pályázatok
+
+-   **Támogatott Kutatócsoportok Programja 2025 - 2028**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
+-   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
+-   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
+-   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
+
+# Oktatási Tevékenység
+
+## Jelenleg
+
+-   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
+-   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
+-   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása)
+-   [Omikai adatok elemzése](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása)
+
+## Korábban
+
+-   [Bevezetés a bioinformatikába](https://docs.google.com/document/d/1QL0P-VIacEiZiChPo30wsCQQ4EKnl33T9nGQrnOxtw8/edit?usp=sharing) (EA; HU) – BSc hallgatóknak (jelenleg egy előadás, a kurzus kidolgozása)
+-   Alapozó bioinformatika (EA; HU) – BSc hallgatóknak
+-   Genetika gyakorlat (néhány GY; HU) – BSc hallgatóknak
+-   Genomika (néhány EA; EN, HU) – MSc hallgatóknak
+-   Molekuláris Evolúció (néhány, EA; HU) – MSc hallgatóknak
+-   Evolúcióbiológia (néhány, EA; HU) – MSc hallgatóknak
+-   Diszkrét matematikai módszerek a biológiában (EA, GY; HU) – MSc és PhD hallgatóknak
+
+## Egyetemi Jegyzet
+
+-   [Genetikai gyakorlatok](https://ttk.elte.hu/dstore/document/864/book.pdf): 7. Bioinformatika – Genetikai betegségek megismerése és kimutatása (HU)
+
+## Egyéb Oktatással Kapcsolatos Tevékenységek
+
+-   Doktori disszertáció bíráló (4); Doktori védésen titkár (3); Doktori védésen bizottsági tag (5); Komplex vizsgán vizsgáztató – ELTE, Pázmány Péter Katolikus Egyetem, Magyar Agrár- és Élettudományi Egyetem, Semmelweiss Egyetem, Debreceni Egyetem (6); MSc záróvizsgáztató (5); Országos Tudományos Diákköri Konferencián zsűritag (3)
+
+-   ELTE Molekuláris genetika, sejt- és fejlődésbiológia MSc specializáció felelőse
+
+# Témavezetés és Mentorálás
+
+-   **At present**: Co-supervising 4 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
+
+-   **Visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
+
+-   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
+
+-   **Végzett hallgatók**: 2 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
+
+-   **Folyamatban lévő témavezetések**: 4 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
+
+    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
+
+# Fontosabb Workshopok
+
+## Oktatóként
+
+-   [*ELTE Kárpát-medencei Magyar Nyári Egyetem*](https://www.elte.hu/content/szakmai-programok.t.25513?m=935), 2022: A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata
+-   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Bécs, Ausztria: RNA-Seq adatelemzés gyakorlat
+
+## Részvevőként
+
+-   *EMBO Training: Laboratory Leadership Course*, 2024, Budapest
+-   *An R Reproducibility Toolkit for the practical researcher*, 2022, online
+-   *8th International Course in Microbial Ecology – Microbiome Metagenome Analysis*, 2017, CNR-ISE, Verbania, I
+-   *EMBO course: Bioinformatics and Comparative Genome Analyses*, 2011, Inst. Pasteur Paris, F
+-   *Computational Phyloinformatics Course*, 2008, Duke Univ., Durham, NC, USA
+-   *Workshop on Molecular Evolution*, 2006, Marine Biological Lab., Woods Hole, MA, USA
+
+# Tagságok
+
+-   [Magyar Bioinformatikai Társaság](http://mabit.ttk.mta.hu/): 2016 – **elnökségi tag**, 2006 – tag
+-   [Magyar Tudományos Akadémia, Bioinformatikai Osztályközi Tudományos Bizottság](https://mta.hu/viii-osztaly/osztalykozi-tudomanyos-bizottsagok-105594#bioinformatikai_osztalykozi_allando_bizottsag): 2021 – **szavazati jogú bizottsági tag**
+-   Vezető kutató az [Elixir Europe magyarországi szervezetében](https://bioinformatics.hu/hu/node/9): 2023 –
+-   [Tudományos Számítások Intézete Egyesület](https://scicomp.hu/) (SciComp): 2024 – tag
+-   Magyar Tudományos Akadémia Köztestülete: 2013 – tag (azonosító: [31344](https://mta.hu/koztestuleti_tagok?PersonId=31344))
+
+# Idegen Nyelvek
+
+-   Angol – tárgyalási szint (C1, középfokú nyelvvizsga)
+-   Olasz – alapfokú nyelvvizsga
+
+# Érdeklődési Területek
+
+-   Bioinformatika
+-   Evolúcióbiológia
+-   Antibiotikum-rezisztencia
+-   Összehasonlító genomika
+-   Molekuláris filogenetika
+-   Metagenomika
+-   Transzkriptomika
+-   Transzkripciós szabályozás
+-   Adatelemzés
+
+# Szakmai Készségek
+
+-   Különböző bioinformatikai módszerek, szoftverek és pipeline-ok professzionális használata és fejlesztése.
+-   R programozási nyelv – professzionális szint
+-   Linux Shell szkriptek – haladó szint
+
+# Szerkesztői és Bírálói Tevékenység
+
+-   [Téma szerkesztő (topic editor) a Frontiers in Systems Biology folyóiratnál](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
+-   Bírálat készítés a következő folyóiratokban: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
+-   Bírálat: PhD disszertáció: (4), pályázatok: NKFI OTKA (3)
+-   OTDK zsűri tag (3)
+
+# Tudománynépszerűsítés
+
+-   [ELTEFeszt TTK előadás](https://youtu.be/iBJRLNDk39c): Lesz-e a coliból szuperbaktérium? 2022, Budapest
+-   [A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata](http://huncovgen.brc.hu/) weboldal létrehozása
+-   Tudományok Fővárosa előadás: [A magyar koronavírus genomok evolúciós vizsgálata](https://www.youtube.com/watch?v=LSFnEAcYxds&list=PLjXfe2m3I1YTnX-HP0c9_XCdgegeRtbKE&index=11), 2020, Budapest
+-   [Kutatók Éjszakája előadás](https://youtu.be/K4sBbH82Iaw?t=3): 2018 és 2020
+
+# Szakmai Weboldalak
+
+-   A [TFLink](https://tflink.net/) transzkripciós faktor - célgén adatbázis létrehozásának és fejlesztésének irányítása.
+-   A [mulea](https://cran.r-project.org/web/packages/mulea/) és [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) funkcionális dúsulást vizsgáló *R* csomag és adatszett létrehozásának irányítása.
+
+# Publikációk
+
+```{r pub_tab}
+#| echo: false
+#| message: false
+#| warning: false
+options(googlesheets4.timeout = 60)
+# read google sheet
+pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13qXhW8yNd6KSlE3Taaus-cBUx7O0XkFCkw_IGgVTWNo/edit?usp=sharing")
+```
+
+-   [![Google](images/Google_Scholar_logo.svg.png){fig-alt="Google Scholar" width="24"}](https://scholar.google.com/citations?user=cYCKyr0AAAAJ) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&&cite_type=3&page=1&labelLang=hun) ([10020542](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&&cite_type=3&page=1&labelLang=hun))
+-   Megjelent publikációk száma: **`r {{ pub_tab$Nr_published_papers[1] }}`** (D1: **`r {{ pub_tab$D1[1] }}`** + Q1: **`r {{ pub_tab$Q1[1] }}`**)
+-   Első-, utolsó- vagy levelezőszerzős publikációk száma: **`r {{ pub_tab$Nr_firs_last_author[1] }}`**
+-   Első-, utolsó- vagy levelezőszerzős publikációk összesített impakt faktora (IF): **`r {{ pub_tab$IF_firs_last_author[1] }}`**
+-   Összes publikáció összesített impakt faktora (IF): **`r {{ pub_tab$IF_sum[1] }}`**
+-   Összes publikáció független idézőinek száma (IC): **`r {{ pub_tab$IC_sum[1] }}`**
+-   h-index: **`r {{ pub_tab$h_index[1] }}`**
+
+## Megjelenés Előtt
+
+```{r pub_list_unpublished}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+
+library(dplyr)
+
+# format the table function
+format_publication_unpublished <- function(authors, year, title, journal, 
+                                           volume, note) {
+  # Add note only if it is not NA
+  note_part <- if(!is.na(note)) paste0(" ", note) else ""
+  paste0("- ", authors, " (", year, ") ", title, " *", journal, "*, ", volume,
+    ".", note_part)}
+
+# Generate formatted publication list
+pub_tab_unpublished <- pub_tab %>% 
+  # unpublished
+  filter(published == "no")
+
+pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
+  format_publication_unpublished(row["authors"], row["year"], row["title"], 
+                                 row["journal"], row["volume"], row["note"])})
+
+# Print the publication list
+cat(paste(pub_list_unpublished, collapse = "\n\n"))
+```
+
+## Megjelent
+
+```{r pub_list_published}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+
+# Format the table function
+format_publication_published <- function(authors, year, title, journal, volume, 
+                                         Q, IF, IC, note, important) {
+  # Add note only if it is not NA
+  note_part <- if (!is.na(note)) paste0(" ", note) else ""
+  # Apply green color styling if important is "yes"
+  text <- paste0(authors, " (", year, ") ", title, " *", journal, "*, ", volume,
+                 ". **", Q, ", IF: ", IF, ", IC: ", IC, note_part, "**")
+  # Check for "important" being "yes" while handling NA
+  if (!is.na(important) && important == "yes") {
+    text <- paste0("- ", "<span style='color: #00ab44;'>", text, "</span>")
+  } else {
+    text <- paste0("- ", text)
+  }
+  return(text)
+}
+
+# Generate formatted publication list
+pub_tab_published <- pub_tab %>% 
+  # Filter for published
+  filter(published == "yes")
+
+pub_list_published <- apply(pub_tab_published, 1, function(row) {
+  format_publication_published(row["authors"], row["year"], row["title"], 
+                               row["journal"], row["volume"], row["Q"], 
+                               row["IF"], row["IC"], row["note"], 
+                               row["important"])})
+
+# Print the publication list
+cat(paste(pub_list_published, collapse = "\n\n"))
+```
+
+# Konferencia Előadások
+
+-   Nemzetközi konferencia előadások száma: **9**
+-   Hazai konferencia előadások száma: **6**
+-   Meghívott előadóként\*: **3**
+
+<!-- Insert a blank line here -->
+
+-   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), okt. 17-19. Szeged
+-   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*3rd HCEMM PhD-POSTDOC Symposium*](https://www.hcemm.eu/news/2023/11/3rd-hpps-phd-postdoc-symposium-keszthely/), nov. 8-9. Keszthely
+-   Ari E, *et al.* (2022) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*1st Bioinformatics and Data Science in Genomic Studies (BDG2022)*](https://konferencia.unideb.hu/en/BDG2022) online, nov. 25. Debreceni Egyetem
+-   Ari E, *et al.* (2022) [Lesz-e az E. coli-ból szuperbaktérium? – Az antibiotikum-rezisztencia- és virulenciagének evolúciós függőségeinek vizsgálata](https://youtu.be/XMJVipx6XA8). *Bioinformatika, a Magyar Tudomány Ünnepén*, nov. 11. Budapest
+-   Ari E\*, Kintses B (2020) A mikrobiom vizsgálati módszerei és az eredmények értelmezése. *Magyar Gasztroenterológiai Társaság, Colon Szekció 2020. évi Tudományos Ülés*, már. 6-7. Visegrád
+-   Ari E, *et al.* (2019) Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota. *EvolBiol Day*, ápr. 17. Szeged
+-   Ari E\*, *et al.* (2018) Vajon mennyire terjednek az antimikrobiális peptid rezisztencia gének? *Bioinformatika, a Magyar Tudomány Ünnepén*, nov. 16. Budapest
+-   Ari E: (2017) MulEA – A tool for multi-enrichment analysis. *2nd Interdisciplinary Signaling Workshop*, júl. 17-21. Visegrád
+-   Ari E\*: (2012) Molecular phylogenetic reconstructions with a discrete mathematical method, the Boolean analysis. *A Magyar Mikrobiológiai Társaság 2012. évi Nagygyűlése*, okt. 24-26. Keszthely
+-   Ari E & Jakó É (2012) Comparison of Boolean analysis and standard phylogenetic methods using artificially evolved and natural mt-tRNA sequences from great apes. *9th Joint Conference on Mathematics and Computer Science*, feb. 9-12. Siófok
+-   Ari E, *et al.* (2007) Boolean analysis: A new discrete mathematical method for phylogenetic reconstruction. *From Molecular Informatics to Bioinformatics – International Symposium*, ápr. 19-21. Collegium Budapest
+-   Ari E & Jakó É (2007) Testing a new discrete mathematical method for phylogenetic reconstruction. *Evolution 2007 Conference*, jún. 16-20. Christchurch, NZ
+-   Ari E & Jakó É (2007) Testing a new discrete mathematical method for phylogenetic reconstruction. *The Dumont D'Urville Workshop on Applied Evolutionary Bioinformatics*, jún. 24-27. Kaikoura, NZ
+-   Ari E, *et al.* (2007) Törzsfa-rekonstrukció diszkrét matematikai módszer segítségével. *Molekuláris taxonómiai, filogenetikai és filogeográfiai kutatások Magyarországon, Szakmai találkozó, Diószegi Sámuel emlékére*, nov. 17. Debrecen
+-   Ari E (2006) Reconstructing the phylogenetic tree of great apes by using a new discrete mathematical method. *12th Annual European Meeting of PhD students in Evolutionary Biology*, szep. 4-9. St. Andrews, UK
+
+# Egyéb Meghívott Előadások
+
+-   Ari E\* (2017) Investigating the antimicrobial peptide resistome in the human gut microbiome: a metagenomic approach. University of Graz, Institute of Zoology, nov. 15. Graz, A
+-   Ari E\*: (2015) Rapid evolution of phenotypic plasticity during experimental evolution of *Drosophila*. The Genome Analysis Centre, feb. 23. Norwich, UK
+
+# Konferencia Poszter Prezentációk
+
+-   Nemzetközi konferencia poszterek száma: **9**
+
+<!-- Insert a blank line here -->
+
+-   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), szep. 12-18. (Trieste, I) online
+-   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*, [*EMBO Workshop: Predicting evolution*](https://www.embl.org/about/info/course-and-conference-office/events/pev23-01/), júl. 11-14. Heidelberg, D
+-   Ari E, *et al.* (2022) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://www.lamg.info/_files/ugd/2e355c_d62492daad5840479e27865c3233bfba.pdf). [*Lake Arrowhead Microbial Genomics Conference*](https://www.lamg.info/), szep. 11-15. Lake Arrowhead, CA, USA
+-   Rutka M, Szántó K, Bacsur P, Resál T, Jójárt B, Bálint A, **Ari E**, Kintses B, Fehér T, Asbóth A, Pigniczki D, Bor R, Fábián A, Farkas K, Maléth J, Szepes Z & Molnár T (2022) [P713 Gut microbiota alterations after bowel preparation amongst inflammatory bowel disease patients](https://academic.oup.com/ecco-jcc/article/16/Supplement_1/i609/6513059). *Journal of Crohn’s and Colitis*, 16 (Supplement_1): i609. **Q1, IF: 9.07**
+-   Ari E, *et al.* (2019) [Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota](https://www.researchgate.net/publication/338231106_Phylogenetic_barriers_to_horizontal_transfer_of_AMP_resistance_genes). *Gordon Research Conference on Molecular Mechanisms in Evolution*, jún. 9-14. Easton, MA, USA
+-   Ari E, *et al.* (2019) [Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota](https://www.researchgate.net/publication/338231106_Phylogenetic_barriers_to_horizontal_transfer_of_AMP_resistance_genes). *Gordon Research Seminar on Molecular Mechanisms in Evolution*, jún. 8-9. Easton, MA, USA
+-   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, szep. 13-16. Budapest
+-   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, júl. 12-16. Bécs, A
+-   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, máj. 25-27. Bécs, A
