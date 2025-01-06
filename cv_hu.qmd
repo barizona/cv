@@ -194,8 +194,8 @@ pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13q
 
 -   [![Google](images/Google_Scholar_logo.svg.png){fig-alt="Google Scholar" width="24"}](https://scholar.google.com/citations?user=cYCKyr0AAAAJ) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&&cite_type=3&page=1&labelLang=hun) ([10020542](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&&cite_type=3&page=1&labelLang=hun))
 -   Megjelent publikációk száma: **`r {{ pub_tab$Nr_published_papers[1] }}`** (D1: **`r {{ pub_tab$D1[1] }}`** + Q1: **`r {{ pub_tab$Q1[1] }}`**)
--   Első-, utolsó- vagy levelezőszerzős publikációk száma: **`r {{ pub_tab$Nr_firs_last_author[1] }}`**
--   Első-, utolsó- vagy levelezőszerzős publikációk összesített impakt faktora (IF): **`r {{ pub_tab$IF_firs_last_author[1] }}`**
+-   Első, utolsó vagy levelező szerzős publikációk száma: **`r {{ pub_tab$Nr_firs_last_author[1] }}`**
+-   Első, utolsó vagy levelező szerzős publikációk összesített impakt faktora (IF): **`r {{ pub_tab$IF_firs_last_author[1] }}`**
 -   Összes publikáció összesített impakt faktora (IF): **`r {{ pub_tab$IF_sum[1] }}`**
 -   Összes publikáció független idézőinek száma (IC): **`r {{ pub_tab$IC_sum[1] }}`**
 -   h-index: **`r {{ pub_tab$h_index[1] }}`**
@@ -225,7 +225,7 @@ pub_tab_unpublished <- pub_tab %>%
 
 pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
   format_publication_unpublished(row["authors"], row["year"], row["title"], 
-                                 row["journal"], row["volume"], row["note"])})
+                                 row["journal"], row["volume_hu"], row["note_hu"])})
 
 # Print the publication list
 cat(paste(pub_list_unpublished, collapse = "\n\n"))
@@ -263,8 +263,8 @@ pub_tab_published <- pub_tab %>%
 
 pub_list_published <- apply(pub_tab_published, 1, function(row) {
   format_publication_published(row["authors"], row["year"], row["title"], 
-                               row["journal"], row["volume"], row["Q"], 
-                               row["IF"], row["IC"], row["note"], 
+                               row["journal"], row["volume_hu"], row["Q"], 
+                               row["IF"], row["IC"], row["note_hu"], 
                                row["important"])})
 
 # Print the publication list
