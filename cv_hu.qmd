@@ -68,7 +68,7 @@ Bioinformatikus kutató, Egyetemi oktató
 # Pályázatok
 
 -   **Támogatott Kutatócsoportok Programja 2025 - 2028**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
--   **ELTE nemzetközi online kurzusok megtartására 2025** pályázaton bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kurzusai közé az "Analysis of OMICS Data PR"; 500 000 HUF
+-   **ELTE nemzetközi online kurzusok megtartására 2025**: az "Omikai adatok elemzése GY" bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kurzusai közé ; 500 000 HUF
 -   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
 -   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
