@@ -67,6 +67,8 @@ Bioinformatic Researcher, University Teacher
 # Grants
 
 -   **Supported Research Groups Programme 2025 - 2028**: *Role*: co-applicant; *Title*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *PI*: Papp Balázs; Number: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
+-   **ELTE nemzetközi online kurzusok megtartására** pályázaton bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kurzusai közé az "Analysis of OMICS Data PR"; 500,000 HUF
+-     **ELTE international online courses** the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/); 500 000 HUF
 -   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme** **2020 - 2023**: *Role*: Principal investigator; *Title*: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; Nr. [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
 -   **Promoting Excellence in Education, ELTE 2020**: *Role*: Principal investigator; *Title*: Development of the infrastructure of the computer practical room; 4,000,000 HUF
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**; *Role*: Supervisor; Connected to the fellowship of Zeljko Popovic; *Title*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
@@ -77,7 +79,7 @@ Bioinformatic Researcher, University Teacher
 
 -   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
 -   [Advanced R programming](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (P; EN) – for Master students
--   [Analysis of Omics data](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (P; EN) – for Master students
+-   [Analysis of Omics data](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
 -   Bioinformatic seminars (L; EN) – for PhD students
 
 ## Formerly

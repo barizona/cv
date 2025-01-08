@@ -68,9 +68,10 @@ Bioinformatikus kutató, Egyetemi oktató
 # Pályázatok
 
 -   **Támogatott Kutatócsoportok Programja 2025 - 2028**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
--   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
--   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
--   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
+-   **ELTE nemzetközi online kurzusok megtartására** pályázaton bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kurzusai közé az "Analysis of OMICS Data PR"; 500 000 HUF
+-   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
+-   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
+-   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
 
 # Oktatási Tevékenység
 
@@ -79,7 +80,7 @@ Bioinformatikus kutató, Egyetemi oktató
 -   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
 -   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása)
--   [Omikai adatok elemzése](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása)
+-   [Omikai adatok elemzése](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
 
 ## Korábban
 
