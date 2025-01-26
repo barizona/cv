@@ -280,6 +280,7 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 
 <!-- Insert a blank line here -->
 
+-   Ari E, *et al.* (2024) mulea - egy többféle ontológiát és empirikus FDR-t alkalmazó dúsulást vizsgáló R csomag. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), nov. 8. Budapest
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), okt. 17-19. Szeged
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*3rd HCEMM PhD-POSTDOC Symposium*](https://www.hcemm.eu/news/2023/11/3rd-hpps-phd-postdoc-symposium-keszthely/), nov. 8-9. Keszthely
 -   Ari E, *et al.* (2022) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*1st Bioinformatics and Data Science in Genomic Studies (BDG2022)*](https://konferencia.unideb.hu/en/BDG2022) online, nov. 25. Debreceni Egyetem
