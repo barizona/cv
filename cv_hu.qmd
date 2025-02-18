@@ -23,13 +23,14 @@ Bioinformatikus kutató, Egyetemi oktató
 
 ## Aktuális
 
-**Egyetemi adjunktus – ELTE Eötvös Loránd Tudományegyetem, Genetikai Tanszék, Budapest**
+**Egyetemi docens – ELTE Eötvös Loránd Tudományegyetem, Genetikai Tanszék, Budapest**
 
 > 1117, Budapest, Pázmány Péter stny. 1/C
 
--   2019 - : Többféle bioinformatikai kurzus fejlesztése és oktatása MSc és PhD hallgatók számára, szakdolgozati és PhD témavezetés. A *Molekuláris genetika, sejt- és fejlődésbiológia* MSc specializáció felelőse.
--   2009 - 2019 tanársegéd
--   2007 - 2009 tudományos segédmunkatárs
+-   2025 - : Többféle bioinformatikai kurzus fejlesztése és oktatása MSc és PhD hallgatók számára, szakdolgozati és PhD témavezetés. A *Molekuláris genetika, sejt- és fejlődésbiológia* MSc specializáció felelőse.
+-   2019 - 2025: egyetemi adjunktus
+-   2009 - 2019: tanársegéd
+-   2007 - 2009: tudományos segédmunkatárs
 
 **Tudományos munkatárs – HUN-REN**[^cv_hu-1]**, Szegedi Biológiai Kutatóközpont (SZBK), Biokémiai Intézet, Szeged**
 
@@ -104,17 +105,10 @@ Bioinformatikus kutató, Egyetemi oktató
 
 # Témavezetés és Mentorálás
 
--   **At present**: Co-supervising 4 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
-
--   **Visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
-
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
-
--   **Végzett hallgatók**: 2 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
-
--   **Folyamatban lévő témavezetések**: 4 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
-
-    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
+-   **Folyamatban lévő témavezetések**: 3 társ-témavezetett PhD hallgató, 1 MSc, 2 BSc, 3 TDK hallgató
+-   **Végzett hallgatók**: 3 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
+-    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
 
 # Fontosabb Workshopok
 

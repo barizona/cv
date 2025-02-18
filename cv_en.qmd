@@ -23,11 +23,14 @@ Bioinformatic Researcher, University Teacher
 
 ## Present
 
-**Assistant professor –** **Eötvös Loránd University (ELTE), Department of Genetics**
+Associate professor
+
+**Associate professor - Eötvös Loránd University (ELTE), Department of Genetics**
 
 > H-1117, Pázmány Péter stny. 1/C, Budapest, Hungary
 
--   2019 - : *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
+-   2025 - *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
+-   2019 - 2025: assistant professor
 -   2009 - 2019: assistant lecturer
 -   2007 - 2009: scientific research associate
 
@@ -97,8 +100,8 @@ Bioinformatic Researcher, University Teacher
 # Supervising & Mentoring
 
 -   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
--   **Graduated students**: 2 co-supervised PhD, 6 Master, 12 Bachelor, and 6 Scientific Student Association students
--   **At present**: Co-supervising 4 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
+-   **At present**: Co-supervising 3 PhD students, supervising 1 Master, 2 Bachelor, and 3 Scientific Student Association students
+-   **Graduated students**: 3 co-supervised PhD, 6 Master, 12 Bachelor, and 6 Scientific Student Association students
 -   **Mentoring** **visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
 
 # Main Workshops
