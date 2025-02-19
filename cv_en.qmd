@@ -78,9 +78,9 @@ Bioinformatic Researcher, University Teacher
 ## Present
 
 -   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
--   [Advanced R programming](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (P; EN) – for Master students
--   [Analysis of Omics data](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
+-   [Analysis of Omics data](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
 -   Bioinformatic seminars (L; EN) – for PhD students
+-   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
 
 ## Formerly
 

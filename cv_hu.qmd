@@ -80,13 +80,13 @@ Bioinformatikus kutató, Egyetemi oktató
 
 -   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
--   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/e/2PACX-1vTyT853D-UqTq1E__rH6UFsIQ1j-EEWk2wDxnHNcBCRw4pA6JemHEv2ND_e66paI_Zr5XYahY133T7e/pub) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása)
--   [Omikai adatok elemzése](https://docs.google.com/document/d/1okHYnyxcyyCyohYHSyNDFSWE4sEnllHoQKyvVrJ2-Z0/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
+-   [Omikai adatok elemzése](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
+-   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing)
 
 ## Korábban
 
--   [Bevezetés a bioinformatikába](https://docs.google.com/document/d/1QL0P-VIacEiZiChPo30wsCQQ4EKnl33T9nGQrnOxtw8/edit?usp=sharing) (EA; HU) – BSc hallgatóknak (jelenleg egy előadás, a kurzus kidolgozása)
--   Alapozó bioinformatika (EA; HU) – BSc hallgatóknak
+-   Bevezetés a bioinformatikába (EA; HU) – BSc hallgatóknak (a kurzus kidolgozása, jelenleg egy előadás)
+-   Alapozó bioinformatika (EA; HU) – BSc hallgatóknak (a kurzus kidolgozása)
 -   Genetika gyakorlat (néhány GY; HU) – BSc hallgatóknak
 -   Genomika (néhány EA; EN, HU) – MSc hallgatóknak
 -   Molekuláris Evolúció (néhány, EA; HU) – MSc hallgatóknak
