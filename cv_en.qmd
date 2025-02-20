@@ -17,7 +17,7 @@ Bioinformatic Researcher, University Teacher
 -   Lab website: [Bioinformatics Research Group at Eötvös Loránd University (ELTE), Budapest, H](https://genet.elte.hu/bioinformatics)
 -   Personal website at [ELTE, Budapest, H](https://genet.elte.hu/en/content/ari-eszter.t.16148)
 -   Personal website at [Biological Research Centre, Szeged, H](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
--   Public pages: ![Researchgate](images/ResearchGate_icon_SVG.png){width="24"} ![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"} ![ResearcherID](images/web_of_science.png){width="22"} ![Scopus](images/scopus.png){width="24"} ![MTMT](images/mtmt.jpg){width="24"} ![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"} ![BlueSky](images/Bluesky_Logo.svg.png){width="27"}
+-   Public pages: [![Researchgate](images/ResearchGate_icon_SVG.png){width="24"}](https://www.researchgate.net/profile/Eszter-Ari) [![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"}](https://orcid.org/0000-0001-7774-1067) [![ResearcherID](images/web_of_science.png){width="22"}](https://www.webofscience.com/wos/author/record/B-2074-2012) [![Scopus](images/scopus.png){width="24"}](https://www.scopus.com/authid/detail.uri?authorId=26633642900) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng) [![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"}](https://x.com/EszterAri) [![BlueSky](images/Bluesky_Logo.svg.png){width="27"}](https://bsky.app/profile/eszterari.bsky.social)
 
 # Positions
 
