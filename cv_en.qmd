@@ -150,11 +150,12 @@ Bioinformatic Researcher, University Teacher
 -   *R* programming language – professional level
 -   *Linux Shell* scripting – intermediate level
 
-# Editing & Reviewing
+# Editing, Reviewing, & Organizing Conferences
 
 -   [Topic editor in Frontiers in Systems Biology](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
 -   Reviewer in journals: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
--   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (3)
+-   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (4)
+-   Conference organization as a member of the scientific organizing committee: [The Joint Conference of the Hungarian Physiological Society, the Hungarian Biophysical Society, the Hungarian Society for Microcirculation and Vascular Biology, and the Hungarian Bioinformatics Society](https://www.congress-service.hu/rendezveny/met25), Sep. 2–5, 2025, Szeged, H
 
 # Popularising Science
 

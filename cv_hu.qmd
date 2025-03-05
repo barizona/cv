@@ -157,12 +157,13 @@ Bioinformatikus kutató, Egyetemi oktató
 -   R programozási nyelv – professzionális szint
 -   Linux Shell szkriptek – haladó szint
 
-# Szerkesztői és Bírálói Tevékenység
+# Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység
 
 -   [Téma szerkesztő (topic editor) a Frontiers in Systems Biology folyóiratnál](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
 -   Bírálat készítés a következő folyóiratokban: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Bírálat: PhD disszertáció: (4), pályázatok: NKFI OTKA (3)
--   OTDK zsűri tag (3)
+-   OTDK zsűri tag (4)
+-   Tudományos szervezőbizottsági tagként konferencia szervezés: [A Magyar Élettani Társaság (MÉT), a Magyar Biofizikai Társaság (MBFT), Magyar Mikrocirkulációs és Vaszkuláris Biológiai Társaság (MMVBT) és a Magyar Bioinformatikai Társaság (MABIT) Közös Konferenciája](https://www.congress-service.hu/rendezveny/met25), 2025. szep. 2-5, Szeged
 
 # Tudománynépszerűsítés
 
