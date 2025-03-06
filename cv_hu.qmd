@@ -99,14 +99,14 @@ Bioinformatikus kutató, Egyetemi oktató
 
 ## Egyéb Oktatással Kapcsolatos Tevékenységek
 
--   Doktori disszertáció bíráló (4); Doktori védésen titkár (3); Doktori védésen bizottsági tag (5); Komplex vizsgán vizsgáztató – ELTE, Pázmány Péter Katolikus Egyetem, Magyar Agrár- és Élettudományi Egyetem, Semmelweiss Egyetem, Debreceni Egyetem (6); MSc záróvizsgáztató (5); Országos Tudományos Diákköri Konferencián zsűritag (3)
+-   Doktori disszertáció bíráló (4); Doktori védésen titkár (4); Doktori védésen bizottsági tag (5); Komplex vizsgán vizsgáztató – ELTE, Pázmány Péter Katolikus Egyetem, Magyar Agrár- és Élettudományi Egyetem, Semmelweiss Egyetem, Debreceni Egyetem (6); MSc záróvizsgáztató (5); Országos Tudományos Diákköri Konferencián zsűritag (4)
 
 -   ELTE Molekuláris genetika, sejt- és fejlődésbiológia MSc specializáció felelőse
 
 # Témavezetés és Mentorálás
 
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
--   **Folyamatban lévő témavezetések**: 3 társ-témavezetett PhD hallgató, 1 MSc, 2 BSc, 3 TDK hallgató
+-   **Folyamatban lévő témavezetések**: 3 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
 -   **Végzett hallgatók**: 3 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
 -    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
 
@@ -167,6 +167,7 @@ Bioinformatikus kutató, Egyetemi oktató
 
 # Tudománynépszerűsítés
 
+-   Science Meetup Budapest előadás: Van-e összefüggés a baktériumok virulenciája és antibiotikum rezisztenciája között? 2025, Budapest
 -   [ELTEFeszt TTK előadás](https://youtu.be/iBJRLNDk39c): Lesz-e a coliból szuperbaktérium? 2022, Budapest
 -   [A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata](http://huncovgen.brc.hu/) weboldal létrehozása
 -   Tudományok Fővárosa előadás: [A magyar koronavírus genomok evolúciós vizsgálata](https://www.youtube.com/watch?v=LSFnEAcYxds&list=PLjXfe2m3I1YTnX-HP0c9_XCdgegeRtbKE&index=11), 2020, Budapest

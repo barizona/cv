@@ -98,7 +98,7 @@ Bioinformatic Researcher, University Teacher
 # Supervising & Mentoring
 
 -   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
--   **At present**: Co-supervising 3 PhD students, supervising 1 Master, 2 Bachelor, and 3 Scientific Student Association students
+-   **At present**: Co-supervising 3 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
 -   **Graduated students**: 3 co-supervised PhD, 6 Master, 12 Bachelor, and 6 Scientific Student Association students
 -   **Mentoring** **visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
 
@@ -159,6 +159,7 @@ Bioinformatic Researcher, University Teacher
 
 # Popularising Science
 
+-   Presenting at the Science Meetup Budapest: Is there a relationship between bacterial virulence and antibiotic resistance? 2025, Budapest, H
 -   Presenting at the Festival of ELTE: Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. 2022, Budapest, H
 -   Creating a website for The genomic epidemiology of SARS-CoV-2 in Hungary
 -   Presenting at Capital of Science “Tudományok Fővárosa”: The genomic epidemiology of SARS-CoV-2 in Hungary, 2020, Budapest, H
