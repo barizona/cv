@@ -167,7 +167,6 @@ Bioinformatikus kutató, Egyetemi oktató
 
 # Tudománynépszerűsítés
 
--   Science Meetup Budapest előadás: Van-e összefüggés a baktériumok virulenciája és antibiotikum rezisztenciája között? 2025, Budapest
 -   [ELTEFeszt TTK előadás](https://youtu.be/iBJRLNDk39c): Lesz-e a coliból szuperbaktérium? 2022, Budapest
 -   [A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata](http://huncovgen.brc.hu/) weboldal létrehozása
 -   Tudományok Fővárosa előadás: [A magyar koronavírus genomok evolúciós vizsgálata](https://www.youtube.com/watch?v=LSFnEAcYxds&list=PLjXfe2m3I1YTnX-HP0c9_XCdgegeRtbKE&index=11), 2020, Budapest

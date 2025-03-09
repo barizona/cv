@@ -159,7 +159,6 @@ Bioinformatic Researcher, University Teacher
 
 # Popularising Science
 
--   Presenting at the Science Meetup Budapest: Is there a relationship between bacterial virulence and antibiotic resistance? 2025, Budapest, H
 -   Presenting at the Festival of ELTE: Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. 2022, Budapest, H
 -   Creating a website for The genomic epidemiology of SARS-CoV-2 in Hungary
 -   Presenting at Capital of Science “Tudományok Fővárosa”: The genomic epidemiology of SARS-CoV-2 in Hungary, 2020, Budapest, H
