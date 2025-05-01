@@ -32,7 +32,7 @@ Bioinformatikus kutató, Egyetemi oktató
 -   2009 - 2019: tanársegéd
 -   2007 - 2009: tudományos segédmunkatárs
 
-**Tudományos munkatárs – HUN-REN**[^cv_hu-1]**, Szegedi Biológiai Kutatóközpont (SZBK), Biokémiai Intézet, Szeged**
+**Tudományos munkatárs – HUN-REN**[^cv_hu-1] **Szegedi Biológiai Kutatóközpont (SZBK), Biokémiai Intézet, Szeged**
 
 [^cv_hu-1]: Korábbi elnevezései: a Magyar Tudományos Akadémia (MTA) Kutatói Hálózata; Eötvös Loránd Kutatóhálózat (ELKH)
 
@@ -43,6 +43,10 @@ Bioinformatikus kutató, Egyetemi oktató
 **Tudományos munkatárs – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolikus Rendszerbiológia Kutatócsoport, Szeged**
 
 -   2019 -
+
+**Tudományos munkatárs – HUN REN Támogatott Kutatócsoportok Irodája**
+
+-   2025 -
 
 ## Korábban
 
@@ -106,8 +110,8 @@ Bioinformatikus kutató, Egyetemi oktató
 # Témavezetés és Mentorálás
 
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
--   **Folyamatban lévő témavezetések**: 3 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
--   **Végzett hallgatók**: 3 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
+-   **Folyamatban lévő témavezetések**: 2 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
+-   **Végzett hallgatók**: 4 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
 -    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
 
 # Fontosabb Workshopok
