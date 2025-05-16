@@ -211,10 +211,18 @@ pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13q
 library(dplyr)
 
 # format the table function
-format_publication_unpublished <- function(authors, year, title, journal, 
+format_publication_unpublished <- function(authors, year, title, link, journal, 
                                            volume, note) {
+  # Bold specific authors
+  authors_to_bold <- c("Ari E")
+  for (name in authors_to_bold) {
+    authors <- gsub(name, paste0("**", name, "**"), authors, fixed = TRUE)
+  }
   # Add note only if it is not NA
   note_part <- if(!is.na(note)) paste0(" ", note) else ""
+  # Markdown link if not empty
+  if (!is.na(link) && nzchar(link)) {
+  title <- paste0("[", title, "](", link, ")")}
   paste0("- ", authors, " (", year, ") ", title, " *", journal, "*, ", volume,
     ".", note_part)}
 
@@ -225,7 +233,8 @@ pub_tab_unpublished <- pub_tab %>%
 
 pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
   format_publication_unpublished(row["authors"], row["year"], row["title"], 
-                                 row["journal"], row["volume_hu"], row["note_hu"])})
+                                 row["link"], row["journal"], row["volume_hu"], 
+                                 row["note_hu"])})
 
 # Print the publication list
 cat(paste(pub_list_unpublished, collapse = "\n\n"))
@@ -240,10 +249,18 @@ cat(paste(pub_list_unpublished, collapse = "\n\n"))
 #| results: asis
 
 # Format the table function
-format_publication_published <- function(authors, year, title, journal, volume, 
-                                         Q, IF, IC, note, important) {
+format_publication_published <- function(authors, year, title, link, journal, 
+                                         volume, Q, IF, IC, note, important) {
+  # Bold specific authors
+  authors_to_bold <- c("Ari E")
+  for (name in authors_to_bold) {
+    authors <- gsub(name, paste0("**", name, "**"), authors, fixed = TRUE)
+  }
   # Add note only if it is not NA
   note_part <- if (!is.na(note)) paste0(" ", note) else ""
+  # Markdown link if not empty
+  if (!is.na(link) && nzchar(link)) {
+  title <- paste0("[", title, "](", link, ")")}
   # Apply green color styling if important is "yes"
   text <- paste0(authors, " (", year, ") ", title, " *", journal, "*, ", volume,
                  ". **", Q, ", IF: ", IF, ", IC: ", IC, note_part, "**")
@@ -263,8 +280,8 @@ pub_tab_published <- pub_tab %>%
 
 pub_list_published <- apply(pub_tab_published, 1, function(row) {
   format_publication_published(row["authors"], row["year"], row["title"], 
-                               row["journal"], row["volume_hu"], row["Q"], 
-                               row["IF"], row["IC"], row["note_hu"], 
+                               row["link"], row["journal"], row["volume_hu"], 
+                               row["Q"], row["IF"], row["IC"], row["note_hu"], 
                                row["important"])})
 
 # Print the publication list
