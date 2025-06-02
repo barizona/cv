@@ -1,6 +1,10 @@
+---
+title: "*Curriculum Vitae* – Ari Eszter"
+---
+
 ::::: {layout="[0.7, 0.3]"}
 ::: {#firstcol style="text-align: left;"}
-# *Curriculum Vitae* – Ari Eszter
+<!-- # *Curriculum Vitae* – Ari Eszter -->
 :::
 
 ::: {#secondcol style="text-align: right;"}
@@ -315,15 +319,17 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 
 # Egyéb Meghívott Előadások
 
+-   Ari E\* (2025) Pathoadaptive traits shape the spread of antibiotic resistance in *Escherichia coli*. Imperial College London, Faculty of Medicine, Korcsmáros Group, máj. 20. London, UK
 -   Ari E\* (2017) Investigating the antimicrobial peptide resistome in the human gut microbiome: a metagenomic approach. University of Graz, Institute of Zoology, nov. 15. Graz, A
 -   Ari E\*: (2015) Rapid evolution of phenotypic plasticity during experimental evolution of *Drosophila*. The Genome Analysis Centre, feb. 23. Norwich, UK
 
 # Konferencia Poszter Prezentációk
 
--   Nemzetközi konferencia poszterek száma: **9**
+-   Nemzetközi konferencia poszterek száma: **10**
 
 <!-- Insert a blank line here -->
 
+-   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), máj. 21-23, Hinxton, UK
 -   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), szep. 12-18. (Trieste, I) online
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*, [*EMBO Workshop: Predicting evolution*](https://www.embl.org/about/info/course-and-conference-office/events/pev23-01/), júl. 11-14. Heidelberg, D
 -   Ari E, *et al.* (2022) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://www.lamg.info/_files/ugd/2e355c_d62492daad5840479e27865c3233bfba.pdf). [*Lake Arrowhead Microbial Genomics Conference*](https://www.lamg.info/), szep. 11-15. Lake Arrowhead, CA, USA
