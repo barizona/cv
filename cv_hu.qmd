@@ -90,6 +90,7 @@ Bioinformatikus kutató, Egyetemi oktató
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
 -   [Omikai adatok elemzése](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
 -   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing)
+-   Filogenetika (EA, GY; EN)
 
 ## Korábban
 
@@ -114,9 +115,9 @@ Bioinformatikus kutató, Egyetemi oktató
 # Témavezetés és Mentorálás
 
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
--   **Folyamatban lévő témavezetések**: 2 társ-témavezetett PhD hallgató, 2 MSc, 2 BSc, 3 TDK hallgató
--   **Végzett hallgatók**: 4 társ-témavezetett PhD, 6 MSc, 12 BSc, 6 TDK hallgató – közülük 1 OTDK 2. helyezés
--    **Vendéghallgató mentorálás**: 1 (Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal)
+-   **Folyamatban lévő témavezetések**: 2 társ-témavezetett PhD hallgató, 2 MSc, 1 TDK hallgató
+-   **Végzett hallgatók**: 4 társ-témavezetett PhD, 6 MSc, 14 BSc, 9 TDK hallgató – közülük 1 OTDK 2. helyezés
+-    **Mentorálás**: 1 Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal, Szent-Györgyi Mentorprogram mentorálás
 
 # Fontosabb Workshopok
 
@@ -295,11 +296,12 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 # Konferencia Előadások
 
 -   Nemzetközi konferencia előadások száma: **9**
--   Hazai konferencia előadások száma: **6**
--   Meghívott előadóként\*: **3**
+-   Hazai konferencia előadások száma: **7**
+-   Meghívott előadóként\*: **4**
 
 <!-- Insert a blank line here -->
 
+-   Ari E\*, Kada N (2025) Nagy nyelvi modellek alkalmazása DNS szekvenálási metaadatok standardizálására. [*II. Országos HUN-REN Cloud Találkozó*](https://terem.sztaki.hu/event/68/timetable/), nov. 13. Budapest
 -   Ari E, *et al.* (2024) mulea - egy többféle ontológiát és empirikus FDR-t alkalmazó dúsulást vizsgáló R csomag. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), nov. 8. Budapest
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), okt. 17-19. Szeged
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*3rd HCEMM PhD-POSTDOC Symposium*](https://www.hcemm.eu/news/2023/11/3rd-hpps-phd-postdoc-symposium-keszthely/), nov. 8-9. Keszthely

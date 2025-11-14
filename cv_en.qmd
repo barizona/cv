@@ -89,6 +89,7 @@ Bioinformatic Researcher, University Teacher
 -   [Analysis of Omics data](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
 -   Bioinformatic seminars (L; EN) – for PhD students
 -   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
+-   Phylogenetics (L, P; EN)
 
 ## Formerly
 
@@ -106,9 +107,9 @@ Bioinformatic Researcher, University Teacher
 # Supervising & Mentoring
 
 -   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
--   **At present**: Co-supervising 2 PhD students, supervising 2 Master, 2 Bachelor, and 3 Scientific Student Association students
--   **Graduated students**: 4 co-supervised PhD, 6 Master, 12 Bachelor, and 6 Scientific Student Association students
--   **Mentoring visiting student:** 1 (with Support for summer internships for Hungarian students studying abroad grant)
+-   **At present**: Co-supervising 2 PhD students, supervising 2 Master students, and 1 Scientific Student Association student
+-   **Graduated students**: 4 co-supervised PhD, 6 Master, 14 Bachelor, and 9 Scientific Student Association students
+-   **Mentoring:** 1 with Support for summer internships for Hungarian students studying abroad grant, Szent-Györgyi Mentoring Program mentoring
 
 # Main Workshops
 
@@ -288,11 +289,12 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 # Oral Presentations in Conferences
 
 -   Nr. of international conference talks: **9**
--   Nr. of national conference talks: **6**
--   As an invited speaker\*: **3**
+-   Nr. of national conference talks: **7**
+-   As an invited speaker\*: **4**
 
 <!-- Insert a blank line here -->
 
+-   Ari E\*, Kada N (2025) Application of large language models for the standardization of DNA sequencing metadata. [*2nd National HUN-REN Cloud Meeting*](https://terem.sztaki.hu/event/68/timetable/), 13 Nov, Budapest, H
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), 8 Nov, Budapest, H
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), 17-19 Oct, Szeged, H
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. [*3rd HCEMM PhD-POSTDOC Symposium*](https://www.hcemm.eu/news/2023/11/3rd-hpps-phd-postdoc-symposium-keszthely/), 8-9 Nov, Keszthely, H
