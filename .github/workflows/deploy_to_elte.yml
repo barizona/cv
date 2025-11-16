@@ -12,33 +12,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: '4.3.2'   # or just 'release'
-
-      - name: Install R packages
-        run: |
-          Rscript -e 'install.packages(c("dplyr", "googlesheets4", "knitr", "rmarkdown"), repos="https://cloud.r-project.org")'
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          tinytex: true
-
-      - name: Install Python packages
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
-
-      - name: Render CV site
-        run: |
-          quarto render
-          # Optional: small deploy stamp if you want
-          date +%F_%T > _site/deploy-stamp.txt
-          echo "${{ github.sha }}" >> _site/deploy-stamp.txt
 
       - name: Ensure remote path exists
         uses: appleboy/ssh-action@v1.0.3
@@ -50,15 +23,15 @@ jobs:
           script: |
             mkdir -p "${{ secrets.CV_REMOTE_PATH }}"
 
-      - name: Copy files via scp (contents of _site -> cv/ari)
+      - name: Copy files via scp (contents of docs -> cv/ari)
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.SSH_HOST }}
           port: ${{ secrets.SSH_PORT }}
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: _site/                         # trailing slash = copy contents
-          target: ${{ secrets.REMOTE_PATH }}  # /opt/.../web/cv/ari
-          strip_components: 1                    # same as in your other deploy
+          source: docs/                         # rendered locally and committed
+          target: ${{ secrets.CV_REMOTE_PATH }} # /opt/.../web/cv/ari
+          strip_components: 1
           overwrite: true
           debug: true
