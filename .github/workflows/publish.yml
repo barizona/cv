@@ -22,7 +22,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("dplyr", "googlesheets4"), repos="https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("dplyr", "googlesheets4", "knitr", "rmarkdown"), repos="https://cloud.r-project.org")'
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
