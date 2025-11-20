@@ -12,15 +12,17 @@ title: "*Curriculum Vitae* – Ari Eszter"
 :::
 :::::
 
-Bioinformatikus kutató, Egyetemi oktató
+::: justify
 
-[arieszter\@gmail.com](mailto:arieszter@gmail.com)
+**Bioinformatikus kutató, Egyetemi oktató**
+
+[arieszter\@ttk.elte.hu](mailto:arieszter@ttk.elte.hu)
 
 **Weboldalak**
 
--   Csoport weboldal: [Bioinformatika Kutatócsoport az Eötvös Loránd Tudományegyetemen (ELTE)](https://genet.elte.hu/bioinformatika)
--   Személyes weboldal az [ELTE-n](https://genet.elte.hu/en/content/ari-eszter.t.16148)
--   Személyes weboldal a [Szegedi Biológiai Kutatóközpontban](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
+-   Csoport weboldal: [Evolúciós Bioinformatika Kutatócsoport az Eötvös Loránd Tudományegyetemen (ELTE)](https://evobioinformatics.elte.hu/)
+-   Személyes weboldal az [ELTE](https://genet.elte.hu/en/content/ari-eszter.t.16148)-n
+-   Személyes weboldal a [HUN-REN Szegedi Biológiai Kutatóközpontban](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
 -   Publikus helyek: [![Researchgate](images/ResearchGate_icon_SVG.png){width="24"}](https://www.researchgate.net/profile/Eszter-Ari) [![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"}](https://orcid.org/0000-0001-7774-1067) [![ResearcherID](images/web_of_science.png){width="22"}](https://www.webofscience.com/wos/author/record/B-2074-2012) [![Scopus](images/scopus.png){width="24"}](https://www.scopus.com/authid/detail.uri?authorId=26633642900) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&&cite_type=3&page=1&labelLang=hun) [![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"}](https://x.com/EszterAri) [![BlueSky](images/Bluesky_Logo.svg.png){width="27"}](https://bsky.app/profile/eszterari.bsky.social)
 
 # Munkahelyek
@@ -31,7 +33,7 @@ Bioinformatikus kutató, Egyetemi oktató
 
 > 1117, Budapest, Pázmány Péter stny. 1/C
 
--   2025 - : Többféle bioinformatikai kurzus fejlesztése és oktatása MSc és PhD hallgatók számára, szakdolgozati és PhD témavezetés. A *Molekuláris genetika, sejt- és fejlődésbiológia* MSc specializáció felelőse.
+-   2025-től: *Feladat*: Többféle bioinformatikai kurzus fejlesztése és oktatása MSc és PhD hallgatók számára, szakdolgozati és PhD témavezetés. A [*Molekuláris genetika, sejt- és fejlődésbiológia*](https://biologia.elte.hu/bio-MSc) MSc specializáció felelőse.
 -   2019 - 2025: egyetemi adjunktus
 -   2009 - 2019: tanársegéd
 -   2007 - 2009: tudományos segédmunkatárs
@@ -77,7 +79,7 @@ Bioinformatikus kutató, Egyetemi oktató
 # Pályázatok
 
 -   **Támogatott Kutatócsoportok Programja 2025 - 2027**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
--   **ELTE nemzetközi online kurzusok megtartására 2025**: az "Omikai adatok elemzése GY" bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kurzusai közé ; 500 000 HUF
+-   **ELTE nemzetközi online kurzusok megtartására 2025 és 2026**: az "Omikai adatok elemzése GY" bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/) kurzusai közé ; 2 × 500 000 HUF
 -   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
 -   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
@@ -89,7 +91,7 @@ Bioinformatikus kutató, Egyetemi oktató
 -   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
 -   [Omikai adatok elemzése](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
--   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing)
+-   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
 -   Filogenetika (EA, GY; EN)
 
 ## Korábban
@@ -168,7 +170,7 @@ Bioinformatikus kutató, Egyetemi oktató
 
 # Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység
 
--   [Téma szerkesztő (topic editor) a Frontiers in Systems Biology folyóiratnál](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
+-   Téma szerkesztő (topic editor) a [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology) folyóiratnál
 -   Bírálat készítés a következő folyóiratokban: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Bírálat: PhD disszertáció: (4), pályázatok: NKFI OTKA (3)
 -   OTDK zsűri tag (4)
@@ -185,6 +187,7 @@ Bioinformatikus kutató, Egyetemi oktató
 
 -   A [TFLink](https://tflink.net/) transzkripciós faktor - célgén adatbázis létrehozásának és fejlesztésének irányítása.
 -   A [mulea](https://cran.r-project.org/web/packages/mulea/) és [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) funkcionális dúsulást vizsgáló *R* csomag és adatszett létrehozásának irányítása.
+-   A [treepruner](https://pypi.org/project/treepruner/) *R* és *Python* csomag létrehozásának irányítása, mellyel a filogenetikai fák túlságosan hosszú ágait lehet lemetszeni.
 
 # Publikációk
 
@@ -341,3 +344,5 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, szep. 13-16. Budapest
 -   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, júl. 12-16. Bécs, A
 -   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, máj. 25-27. Bécs, A
+
+:::

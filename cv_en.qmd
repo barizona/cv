@@ -12,13 +12,15 @@ title: "*Curriculum Vitae* of Eszter Ari"
 :::
 :::::
 
-Bioinformatic Researcher, University Teacher
+::: justify
 
-[arieszter\@gmail.com](mailto:arieszter@gmail.com)
+**Bioinformatic Researcher, University Teacher**
+
+[arieszter\@gttk.elte.hu](mailto:arieszter@ttk.elte.hu)
 
 **Websites**
 
--   Lab website: [Bioinformatics Research Group at Eötvös Loránd University (ELTE), Budapest, H](https://genet.elte.hu/bioinformatics)
+-   Lab website: [Evolutionary Bioinformatics Research Group at Eötvös Loránd University (ELTE), Budapest, H](https://evobioinformatics.elte.hu/)
 -   Personal website at [ELTE, Budapest, H](https://genet.elte.hu/en/content/ari-eszter.t.16148)
 -   Personal website at [Biological Research Centre, Szeged, H](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
 -   Public pages: [![Researchgate](images/ResearchGate_icon_SVG.png){width="24"}](https://www.researchgate.net/profile/Eszter-Ari) [![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"}](https://orcid.org/0000-0001-7774-1067) [![ResearcherID](images/web_of_science.png){width="22"}](https://www.webofscience.com/wos/author/record/B-2074-2012) [![Scopus](images/scopus.png){width="24"}](https://www.scopus.com/authid/detail.uri?authorId=26633642900) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng) [![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"}](https://x.com/EszterAri) [![BlueSky](images/Bluesky_Logo.svg.png){width="27"}](https://bsky.app/profile/eszterari.bsky.social)
@@ -31,7 +33,7 @@ Bioinformatic Researcher, University Teacher
 
 > H-1117, Pázmány Péter stny. 1/C, Budapest, Hungary
 
--   2025 - *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
+-   2025 - present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
 -   2019 - 2025: assistant professor
 -   2009 - 2019: assistant lecturer
 -   2007 - 2009: scientific research associate
@@ -76,7 +78,7 @@ Bioinformatic Researcher, University Teacher
 # Grants
 
 -   **Supported Research Groups Programme 2025 - 2027**: *Role*: co-applicant; *Title*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *PI*: Balázs Papp; Number: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
--   **ELTE international online courses 2025**: the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/); 500 000 HUF
+-   **ELTE international online courses 2025 and 2026**: the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/); 2 × 500 000 HUF
 -   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme** **2020 - 2023**: *Role*: Principal investigator; *Title*: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; Nr. [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
 -   **Promoting Excellence in Education, ELTE 2020**: *Role*: Principal investigator; *Title*: Development of the infrastructure of the computer practical room; 4,000,000 HUF
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**; *Role*: Supervisor; Connected to the fellowship of Zeljko Popovic; *Title*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
@@ -161,7 +163,7 @@ Bioinformatic Researcher, University Teacher
 
 # Editing, Reviewing, & Organizing Conferences
 
--   [Topic editor in Frontiers in Systems Biology](https://www.frontiersin.org/research-topics/62823/gene-evolution-and-mutation-in-evolutionary-systems-biology)
+-   Topic editor in [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology)
 -   Reviewer in journals: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (4)
 -   Conference organization as a member of the scientific organizing committee: [The Joint Conference of the Hungarian Physiological Society, the Hungarian Biophysical Society, the Hungarian Society for Microcirculation and Vascular Biology, and the Hungarian Bioinformatics Society](https://www.congress-service.hu/rendezveny/met25), Sep. 2–5, 2025, Szeged, H
@@ -176,7 +178,8 @@ Bioinformatic Researcher, University Teacher
 # Scientific Websites
 
 -   Supervising the creation of the [TFLink](https://tflink.net/), a transcription factor - target gene database.
--   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) R packages for functional enrichment analysis and dataset.
+-   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) *R* packages for functional enrichment analysis and dataset.
+-   Supervising the creation of the [treepruner](https://pypi.org/project/treepruner/) *R* and *Python* packages for pruning too long branches of phyloegnetic trees.
 
 # Publications
 
@@ -334,3 +337,5 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, 13-16 Sep, Budapest, H
 -   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, 12-16 Jul, Vienna, A
 -   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, 25-27 May, Vienna, A
+
+:::
