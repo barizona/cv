@@ -12,8 +12,6 @@ title: "*Curriculum Vitae* – Ari Eszter"
 :::
 :::::
 
-::: justify
-
 **Bioinformatikus kutató, Egyetemi oktató**
 
 [arieszter\@ttk.elte.hu](mailto:arieszter@ttk.elte.hu)
@@ -344,5 +342,3 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, szep. 13-16. Budapest
 -   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, júl. 12-16. Bécs, A
 -   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, máj. 25-27. Bécs, A
-
-:::
