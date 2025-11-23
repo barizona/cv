@@ -18,23 +18,29 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 **Websites**
 
+::: {.justify}
+
 -   Lab website: [Evolutionary Bioinformatics Research Group at Eötvös Loránd University (ELTE), Budapest, H](https://evobioinformatics.elte.hu/)
 -   Personal website at [ELTE, Budapest, H](https://genet.elte.hu/en/content/ari-eszter.t.16148)
 -   Personal website at [Biological Research Centre, Szeged, H](http://group.szbk.u-szeged.hu/sysbiol/papp-balazs-lab-member.html#eszter-ari)
 -   Public pages: [![Researchgate](images/ResearchGate_icon_SVG.png){width="24"}](https://www.researchgate.net/profile/Eszter-Ari) [![ORCiD](images/ORCID_iD_32x32.svg.png){width="24"}](https://orcid.org/0000-0001-7774-1067) [![ResearcherID](images/web_of_science.png){width="22"}](https://www.webofscience.com/wos/author/record/B-2074-2012) [![Scopus](images/scopus.png){width="24"}](https://www.scopus.com/authid/detail.uri?authorId=26633642900) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng) [![X (Twitter)](images/twitter_x_new_logo_square_x_icon.png){width="24"}](https://x.com/EszterAri) [![BlueSky](images/Bluesky_Logo.svg.png){width="27"}](https://bsky.app/profile/eszterari.bsky.social)
 
+:::
+
 # Positions
 
 ## Present
 
-**Associate professor - Eötvös Loránd University (ELTE), Department of Genetics**
+::: {.justify}
+
+**Habilitated associate professor - Eötvös Loránd University (ELTE), Department of Genetics**
 
 > H-1117, Pázmány Péter stny. 1/C, Budapest, Hungary
 
 -   2025 - present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
--   2019 - 2025: assistant professor
--   2009 - 2019: assistant lecturer
--   2007 - 2009: scientific research associate
+-   2019 - 2025: Assistant professor
+-   2009 - 2019: Assistant lecturer
+-   2007 - 2009: Scientific research associate
 
 **Research fellow – HUN-REN**[^cv_en-1] **Biological Research Centre (BRC), Institute of Biochemistry, Szeged**
 
@@ -42,48 +48,69 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 > H-6726, Temesvári krt. 62, Szeged, Hungary
 
--   2016 - : Investigating the evolution of antibiotic resistance and virulence using phylogenetic and comparative genomics approaches in Balázs Papp’s Lab, from 2020 as a project leader.
-
-**Research fellow – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolic Systems Biology Research Group, Szeged**
-
--   2019 -
+-   2016 - present: Investigating the evolution of antibiotic resistance and virulence using phylogenetic and comparative genomics approaches in Balázs Papp’s Lab, from 2020 as a project leader.
 
 **Research fellow – HUN-REN Office for Supported Research Groups, Budapest**
 
--   2025 -
+-   2025 - present
+
+:::
 
 ## Formerly
+
+::: {.justify}
+
+**Research fellow – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolic Systems Biology Research Group, Szeged**
+
+-   2019 - 2025
 
 **Postdoctoral researcher – Univ. of Veterinary Medicine (Vet-Med Uni), Institut für Populationsgenetik, Vienna, A**
 
 -   2012 - 2014: Analysing the RNA-seq data of thermal adapted fruit fly populations in Christian Schlötterer’s Lab.
 
+:::
+
 # Diplomas & Degrees
+
+::: {.justify}
 
 -   **Habilitation**: ELTE, Budapest, H, 2023
 -   **PhD**: Biology Doctoral School, Theoretical and Evolutionary Biology Doctoral Programme, ELTE, Budapest, H, 2012
 -   **Bachelor and Master**: Majoring in Applied Zoology, Faculty of Veterinary Sciences[^cv_en-2], Szent István University, Budapest, H, 1999 - 2004
 
+:::
+
 [^cv_en-2]: Formal and actual name: University of Veterinary Medicine
 
+
 # Awards & Scholarships
+
+::: {.justify}
 
 -   Outstanding scientific publication award from Excellence Fund of Eötvös Loránd University, 2024 and 2022, Budapest, H
 -   Junior fellowship at Collegium Budapest – Institute for Advanced Study, 2009, Budapest, H
 -   Scholarship of the Fac. Veterinary Sci., Szent István Univ., 2003 - 2004, Budapest, H
 -   2^nd^ Prize of the Conference for Student Scientists at Fac. Veterinary Sci., Szent István Univ., 2003, Budapest, H
 
+:::
+
 # Grants
 
+::: {.justify}
+
 -   **Supported Research Groups Programme 2025 - 2027**: *Role*: co-applicant; *Title*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *PI*: Balázs Papp; Number: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
--   **ELTE international online courses 2025 and 2026**: the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/); 2 × 500 000 HUF
+-   **ELTE international online courses 2025 and 2026**: the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/); 2 × 500,000 HUF
 -   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme** **2020 - 2023**: *Role*: Principal investigator; *Title*: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; Nr. [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
 -   **Promoting Excellence in Education, ELTE 2020**: *Role*: Principal investigator; *Title*: Development of the infrastructure of the computer practical room; 4,000,000 HUF
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**; *Role*: Supervisor; Connected to the fellowship of Zeljko Popovic; *Title*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
 
+:::
+
 # Teaching Activities
 
 ## Present
+
+::: {.justify}
 
 -   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
 -   [Analysis of Omics data](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
@@ -91,7 +118,11 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
 -   Phylogenetics (L, P; EN)
 
+:::
+
 ## Formerly
+
+::: {.justify}
 
 -   Introduction to Bioinformatics (L; HU) – for Bachelor students
 -   Genetic lab. practices (selected P; EN, HU) – for Bachelor students
@@ -100,25 +131,41 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   Evolutionary biology (selected L; HU) – for Master students
 -   Discrete mathematical methods in biology (L, P; HU) – for Master and PhD students
 
+:::
+
 ## Course Book
+
+::: {.justify}
 
 -   Genetics Exercises: Chapter 7 – Bioinformatics: Genetic Disease Recognition and Detection (HU)
 
+:::
+
 # Supervising & Mentoring
+
+::: {.justify}
 
 -   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
 -   **At present**: Co-supervising 2 PhD students, supervising 2 Master students, and 1 Scientific Student Association student
 -   **Graduated students**: 4 co-supervised PhD, 6 Master, 14 Bachelor, and 9 Scientific Student Association students
 -   **Mentoring:** 1 with Support for summer internships for Hungarian students studying abroad grant, [Szent-Györgyi Mentoring Program](https://www.edu-sci.org/mentor/szent-gyoergyi-mentor/) mentoring
 
+:::
+
 # Main Workshops
 
 ## As Lecturer
 
+::: {.justify}
+
 -   *ELTE Carpathian Basin Hungarian Summer University*, 2022: Genetic analysis of the virus variants determining the COVID epidemic in Hungary
 -   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Vienna, A: Practicals about RNA-seq data analysis
 
+:::
+
 ## As Participant
+
+::: {.justify}
 
 -   *EMBO Training: Laboratory Leadership Course*, 2024, Budapest, H
 -   *An R Reproducibility Toolkit for the practical researcher*, 2022, online
@@ -127,13 +174,20 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   *Computational Phyloinformatics Course*, 2008, Duke Univ., Durham, NC, USA
 -   *Workshop on Molecular Evolution*, 2006, Marine Biological Lab., Woods Hole, MA, USA
 
+:::
+
 # Memberships
+
+::: {.justify}
 
 -   [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home): 2016 – **member of the directory board**; 2006 – member
 -   Hungarian Academy of Sciences, Interdepartmental Scientific Committee on Bioinformatics: 2021 – **committee member**
 -   Hungarian node of the [Elixir Europe](https://elixir-europe.org/about-us/who-we-are/nodes/hungary): 2023 – **lead researcher**
 -   [Institute of Scientific Computing, Society](https://scicomp.hu/?lang=en) (SciComp): 2024 – member
 -   Public Body of the Hungarian Academy of Sciences: 2013 – member (ID: 31344)
+-   **Chair** of the Ethical Committee of the Faculty of Science, Eötvös Loránd University (2025 – )
+
+:::
 
 # Languages
 
@@ -155,29 +209,45 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 # Professional Skills
 
+::: {.justify}
+
 -   Developing and using different bioinformatic methods, software and pipelines.
 -   *R* programming language – professional level
 -   *Linux Shell* scripting – intermediate level
 
+:::
+
 # Editing, Reviewing, & Organizing Conferences
+
+::: {.justify}
 
 -   Topic editor in [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology)
 -   Reviewer in journals: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (4)
 -   Conference organization as a member of the scientific organizing committee: [The Joint Conference of the Hungarian Physiological Society, the Hungarian Biophysical Society, the Hungarian Society for Microcirculation and Vascular Biology, and the Hungarian Bioinformatics Society](https://www.congress-service.hu/rendezveny/met25), Sep. 2–5, 2025, Szeged, H
 
+:::
+
 # Popularising Science
+
+::: {.justify}
 
 -   Presenting at the Festival of ELTE: Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. 2022, Budapest, H
 -   Creating a website for The genomic epidemiology of SARS-CoV-2 in Hungary
 -   Presenting at Capital of Science “Tudományok Fővárosa”: The genomic epidemiology of SARS-CoV-2 in Hungary, 2020, Budapest, H
 -   Presenting at Night of Scientists “Kutatók Éjszakája”, 2018 and 2020
 
+:::
+
 # Scientific Websites
+
+::: {.justify}
 
 -   Supervising the creation of the [TFLink](https://tflink.net/), a transcription factor - target gene database.
 -   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) *R* packages for functional enrichment analysis and dataset.
 -   Supervising the creation of the [treepruner](https://pypi.org/project/treepruner/) *R* and *Python* packages for pruning too long branches of phyloegnetic trees.
+
+:::
 
 # Publications
 
@@ -199,6 +269,8 @@ pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13q
 -   h-index: **`r {{ pub_tab$h_index[1] }}`**
 
 ## Preprints
+
+::: {.justify}
 
 ```{r pub_list_unpublished}
 #| echo: false
@@ -239,7 +311,11 @@ pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
 cat(paste(pub_list_unpublished, collapse = "\n\n"))
 ```
 
+:::
+
 ## Published
+
+::: {.justify}
 
 ```{r pub_list_published}
 #| echo: false
@@ -287,6 +363,8 @@ pub_list_published <- apply(pub_tab_published, 1, function(row) {
 cat(paste(pub_list_published, collapse = "\n\n"))
 ```
 
+:::
+
 # Oral Presentations in Conferences
 
 -   Nr. of international conference talks: **9**
@@ -294,6 +372,8 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   As an invited speaker\*: **4**
 
 <!-- Insert a blank line here -->
+
+::: {.justify}
 
 -   Ari E\*, Kada N (2025) Application of large language models for the standardization of DNA sequencing metadata. [*2nd National HUN-REN Cloud Meeting*](https://terem.sztaki.hu/event/68/timetable/), 13 Nov, Budapest, H
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), 8 Nov, Budapest, H
@@ -313,17 +393,25 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E, *et al.* (2007) Phylogenetic tree reconstruction with a new discrete mathematical method. *Molecular taxonomic, phylogenetic and phylogeographic researches in Hungary, Meeting in memory of Sámuel Diószegi*, 17 Nov, Debrecen, H
 -   Ari E (2006) Reconstructing the phylogenetic tree of great apes by using a new discrete mathematical method. *12th Annual European Meeting of PhD students in Evolutionary Biology*, 4-9 Sep, St. Andrews, UK
 
+:::
+
 # Other Invited Talks
+
+::: {.justify}
 
 -   Ari E\* (2025) Pathoadaptive traits shape the spread of antibiotic resistance in *Escherichia coli*. Imperial College London, Faculty of Medicine, Korcsmáros Group, 20 May, London, UK
 -   Ari E\* (2017) Investigating the antimicrobial peptide resistome in the human gut microbiome: a metagenomic approach. University of Graz, Institute of Zoology, 15 Nov, Graz, A
 -   Ari E\*: (2015) Rapid evolution of phenotypic plasticity during experimental evolution of *Drosophila*. The Genome Analysis Centre, 23 Feb, Norwich, UK
+
+:::
 
 # Poster Presentations in Conferences
 
 -   Nr. of international conference posters: **10**
 
 <!-- Insert a blank line here -->
+
+::: {.justify}
 
 -   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), 21-23 May, Hinxton, UK
 -   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), 12-18 Sep, (Trieste, I) online
@@ -335,3 +423,5 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, 13-16 Sep, Budapest, H
 -   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, 12-16 Jul, Vienna, A
 -   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, 25-27 May, Vienna, A
+
+:::

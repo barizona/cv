@@ -27,7 +27,9 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 ## Aktuális
 
-**Egyetemi docens – ELTE Eötvös Loránd Tudományegyetem, Genetikai Tanszék, Budapest**
+::: {.justify}
+
+**Habilitált egyetemi docens – ELTE Eötvös Loránd Tudományegyetem, Genetikai Tanszék, Budapest**
 
 > 1117, Budapest, Pázmány Péter stny. 1/C
 
@@ -38,35 +40,51 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 **Tudományos munkatárs – HUN-REN**[^cv_hu-1] **Szegedi Biológiai Kutatóközpont (SZBK), Biokémiai Intézet, Szeged**
 
+:::
+
 [^cv_hu-1]: Korábbi elnevezései: a Magyar Tudományos Akadémia (MTA) Kutatói Hálózata; Eötvös Loránd Kutatóhálózat (ELKH)
+
+::: {.justify}
 
 > 6726, Szeged, Temesvári krt. 62
 
--   2016 - : Az antibiotikum rezisztencia és a virulencia evolúciójának kutatása összehasonlító genomikai és filogenetikai módszerek segítségével, Papp Balázs csoportjában. 2020 óta projektvezetőként.
-
-**Tudományos munkatárs – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolikus Rendszerbiológia Kutatócsoport, Szeged**
-
--   2019 -
+-   2016-tól : Az antibiotikum rezisztencia és a virulencia evolúciójának kutatása összehasonlító genomikai és filogenetikai módszerek segítségével, Papp Balázs csoportjában. 2020 óta projektvezetőként.
 
 **Tudományos munkatárs – HUN REN Támogatott Kutatócsoportok Irodája**
 
--   2025 -
+-   2025-től
+
+:::
 
 ## Korábban
+
+::: {.justify}
+
+**Tudományos munkatárs – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolikus Rendszerbiológia Kutatócsoport, Szeged**
+
+-   2019 - 2025
 
 **Posztdoktor kutató – Állatorvostudományi Egyetem (Vet-Med), Populációgenetikai Intézet, Bécs, A**
 
 -   2012 - 2014: Különböző hőmérséklethez adaptálódott muslica populációk RNA-Seq adatainak feldolgozása, Christian Schlötterer csoportjában.
 
+:::
+
 # Diplomák és Fokozatok
+
+::: {.justify}
 
 -   **Habilitáció**: ELTE, Budapest, 2023
 -   **PhD**: Biológia Doktori Iskola, ELTE, Budapest, 2012
 -   **Egyetemi diploma** (osztatlan képzés): Szent István Egyetem (SZIE), Állatorvostudományi Kar[^cv_hu-2], Budapest, 2004
 
+:::
+
 [^cv_hu-2]: Korábbi és jelenlegi nevén: Állatorvostudományi Egyetem
 
 # Díjak és Ösztöndíjak
+
+::: {.justify}
 
 -   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://www.elte.hu/content/az-egyetemi-kivalosagi-alapbol-tamogatott-palyazatok-2024.t.30890), 2024, Budapest
 -   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://biologia.elte.hu/content/intezeti-sikerek-az-egyetemi-kivalosagi-alap-palyazatan.t.31475), 2022, Budapest
@@ -74,7 +92,11 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   Az Állatorvostudományi Kar Ösztöndíja, Szent István Egyetem, 2003 - 2004, Budapest
 -   2\. helyezés az Állatorvostudományi Kar TDK Konferenciáján, Szent István Egyetem, 2003, Budapest
 
+:::
+
 # Pályázatok
+
+::: {.justify}
 
 -   **Támogatott Kutatócsoportok Programja 2025 - 2027**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
 -   **ELTE nemzetközi online kurzusok megtartására 2025 és 2026**: az "Omikai adatok elemzése GY" bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/) kurzusai közé ; 2 × 500 000 HUF
@@ -82,9 +104,13 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
 
+:::
+
 # Oktatási Tevékenység
 
 ## Jelenleg
+
+::: {.justify}
 
 -   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
@@ -92,7 +118,11 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
 -   Filogenetika (EA, GY; EN)
 
+:::
+
 ## Korábban
+
+::: {.justify}
 
 -   Bevezetés a bioinformatikába (EA; HU) – BSc hallgatóknak (a kurzus kidolgozása, jelenleg egy előadás)
 -   Alapozó bioinformatika (EA; HU) – BSc hallgatóknak (a kurzus kidolgozása)
@@ -102,31 +132,51 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   Evolúcióbiológia (néhány, EA; HU) – MSc hallgatóknak
 -   Diszkrét matematikai módszerek a biológiában (EA, GY; HU) – MSc és PhD hallgatóknak
 
+:::
+
 ## Egyetemi Jegyzet
+
+::: {.justify}
 
 -   [Genetikai gyakorlatok](https://ttk.elte.hu/dstore/document/864/book.pdf): 7. Bioinformatika – Genetikai betegségek megismerése és kimutatása (HU)
 
+:::
+
 ## Egyéb Oktatással Kapcsolatos Tevékenységek
+
+::: {.justify}
 
 -   Doktori disszertáció bíráló (4); Doktori védésen titkár (4); Doktori védésen bizottsági tag (5); Komplex vizsgán vizsgáztató – ELTE, Pázmány Péter Katolikus Egyetem, Magyar Agrár- és Élettudományi Egyetem, Semmelweiss Egyetem, Debreceni Egyetem (6); MSc záróvizsgáztató (5); Országos Tudományos Diákköri Konferencián zsűritag (4)
 
 -   ELTE Molekuláris genetika, sejt- és fejlődésbiológia MSc specializáció felelőse
 
+:::
+
 # Témavezetés és Mentorálás
+
+::: {.justify}
 
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
 -   **Folyamatban lévő témavezetések**: 2 társ-témavezetett PhD hallgató, 2 MSc, 1 TDK hallgató
 -   **Végzett hallgatók**: 4 társ-témavezetett PhD, 6 MSc, 14 BSc, 9 TDK hallgató – közülük 1 OTDK 2. helyezés
 -    **Mentorálás**: 1 Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal, [Szent-Györgyi Mentorprogram](https://www.edu-sci.org/mentor/szent-gyoergyi-mentor/) mentorálás
 
+:::
+
 # Fontosabb Workshopok
 
 ## Oktatóként
 
+::: {.justify}
+
 -   [*ELTE Kárpát-medencei Magyar Nyári Egyetem*](https://www.elte.hu/content/szakmai-programok.t.25513?m=935), 2022: A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata
 -   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Bécs, Ausztria: RNA-Seq adatelemzés gyakorlat
 
+:::
+
 ## Részvevőként
+
+::: {.justify}
 
 -   *EMBO Training: Laboratory Leadership Course*, 2024, Budapest
 -   *An R Reproducibility Toolkit for the practical researcher*, 2022, online
@@ -135,13 +185,20 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   *Computational Phyloinformatics Course*, 2008, Duke Univ., Durham, NC, USA
 -   *Workshop on Molecular Evolution*, 2006, Marine Biological Lab., Woods Hole, MA, USA
 
+:::
+
 # Tagságok
+
+::: {.justify}
 
 -   [Magyar Bioinformatikai Társaság](http://mabit.ttk.mta.hu/): 2016 – **elnökségi tag**, 2006 – tag
 -   [Magyar Tudományos Akadémia, Bioinformatikai Osztályközi Tudományos Bizottság](https://mta.hu/viii-osztaly/osztalykozi-tudomanyos-bizottsagok-105594#bioinformatikai_osztalykozi_allando_bizottsag): 2021 – **szavazati jogú bizottsági tag**
 -   Vezető kutató az [Elixir Europe magyarországi szervezetében](https://bioinformatics.hu/hu/node/9): 2023 –
 -   [Tudományos Számítások Intézete Egyesület](https://scicomp.hu/) (SciComp): 2024 – tag
 -   Magyar Tudományos Akadémia Köztestülete: 2013 – tag (azonosító: [31344](https://mta.hu/koztestuleti_tagok?PersonId=31344))
+-   [ELTE Természettudományi Kar Etikai Bizottságának](https://ttk.elte.hu/bizottsagok) **elnöke** (2025 – )
+
+:::
 
 # Idegen Nyelvek
 
@@ -162,11 +219,17 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 # Szakmai Készségek
 
+::: {.justify}
+
 -   Különböző bioinformatikai módszerek, szoftverek és pipeline-ok professzionális használata és fejlesztése.
 -   R programozási nyelv – professzionális szint
 -   Linux Shell szkriptek – haladó szint
 
+:::
+
 # Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység
+
+::: {.justify}
 
 -   Téma szerkesztő (topic editor) a [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology) folyóiratnál
 -   Bírálat készítés a következő folyóiratokban: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
@@ -174,18 +237,28 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   OTDK zsűri tag (4)
 -   Tudományos szervezőbizottsági tagként konferencia szervezés: [A Magyar Élettani Társaság (MÉT), a Magyar Biofizikai Társaság (MBFT), Magyar Mikrocirkulációs és Vaszkuláris Biológiai Társaság (MMVBT) és a Magyar Bioinformatikai Társaság (MABIT) Közös Konferenciája](https://www.congress-service.hu/rendezveny/met25), 2025. szep. 2-5, Szeged
 
+:::
+
 # Tudománynépszerűsítés
+
+::: {.justify}
 
 -   [ELTEFeszt TTK előadás](https://youtu.be/iBJRLNDk39c): Lesz-e a coliból szuperbaktérium? 2022, Budapest
 -   [A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata](http://huncovgen.brc.hu/) weboldal létrehozása
 -   Tudományok Fővárosa előadás: [A magyar koronavírus genomok evolúciós vizsgálata](https://www.youtube.com/watch?v=LSFnEAcYxds&list=PLjXfe2m3I1YTnX-HP0c9_XCdgegeRtbKE&index=11), 2020, Budapest
 -   [Kutatók Éjszakája előadás](https://youtu.be/K4sBbH82Iaw?t=3): 2018 és 2020
 
+:::
+
 # Szakmai Weboldalak
+
+::: {.justify}
 
 -   A [TFLink](https://tflink.net/) transzkripciós faktor - célgén adatbázis létrehozásának és fejlesztésének irányítása.
 -   A [mulea](https://cran.r-project.org/web/packages/mulea/) és [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) funkcionális dúsulást vizsgáló *R* csomag és adatszett létrehozásának irányítása.
 -   A [treepruner](https://pypi.org/project/treepruner/) *R* és *Python* csomag létrehozásának irányítása, mellyel a filogenetikai fák túlságosan hosszú ágait lehet lemetszeni.
+
+:::
 
 # Publikációk
 
@@ -207,6 +280,8 @@ pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13q
 -   h-index: **`r {{ pub_tab$h_index[1] }}`**
 
 ## Megjelenés Előtt
+
+::: {.justify}
 
 ```{r pub_list_unpublished}
 #| echo: false
@@ -246,7 +321,11 @@ pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
 cat(paste(pub_list_unpublished, collapse = "\n\n"))
 ```
 
+:::
+
 ## Megjelent
+
+::: {.justify}
 
 ```{r pub_list_published}
 #| echo: false
@@ -294,6 +373,8 @@ pub_list_published <- apply(pub_tab_published, 1, function(row) {
 cat(paste(pub_list_published, collapse = "\n\n"))
 ```
 
+:::
+
 # Konferencia Előadások
 
 -   Nemzetközi konferencia előadások száma: **9**
@@ -301,6 +382,8 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Meghívott előadóként\*: **4**
 
 <!-- Insert a blank line here -->
+
+::: {.justify}
 
 -   Ari E\*, Kada N (2025) Nagy nyelvi modellek alkalmazása DNS szekvenálási metaadatok standardizálására. [*II. Országos HUN-REN Cloud Találkozó*](https://terem.sztaki.hu/event/68/timetable/), nov. 13. Budapest
 -   Ari E, *et al.* (2024) mulea - egy többféle ontológiát és empirikus FDR-t alkalmazó dúsulást vizsgáló R csomag. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), nov. 8. Budapest
@@ -320,17 +403,25 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E, *et al.* (2007) Törzsfa-rekonstrukció diszkrét matematikai módszer segítségével. *Molekuláris taxonómiai, filogenetikai és filogeográfiai kutatások Magyarországon, Szakmai találkozó, Diószegi Sámuel emlékére*, nov. 17. Debrecen
 -   Ari E (2006) Reconstructing the phylogenetic tree of great apes by using a new discrete mathematical method. *12th Annual European Meeting of PhD students in Evolutionary Biology*, szep. 4-9. St. Andrews, UK
 
+:::
+
 # Egyéb Meghívott Előadások
+
+::: {.justify}
 
 -   Ari E\* (2025) Pathoadaptive traits shape the spread of antibiotic resistance in *Escherichia coli*. Imperial College London, Faculty of Medicine, Korcsmáros Group, máj. 20. London, UK
 -   Ari E\* (2017) Investigating the antimicrobial peptide resistome in the human gut microbiome: a metagenomic approach. University of Graz, Institute of Zoology, nov. 15. Graz, A
 -   Ari E\*: (2015) Rapid evolution of phenotypic plasticity during experimental evolution of *Drosophila*. The Genome Analysis Centre, feb. 23. Norwich, UK
+
+:::
 
 # Konferencia Poszter Prezentációk
 
 -   Nemzetközi konferencia poszterek száma: **10**
 
 <!-- Insert a blank line here -->
+
+::: {.justify}
 
 -   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), máj. 21-23, Hinxton, UK
 -   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), szep. 12-18. (Trieste, I) online
@@ -342,3 +433,5 @@ cat(paste(pub_list_published, collapse = "\n\n"))
 -   Ari E & Jakó É (2015) Graph-based generalized Boolean descriptors for classification of biological macromolecules. *Conferentia Chemometrica*, szep. 13-16. Budapest
 -   Ari E *et al.* (2015) Rapid evolution of phenotypic plasticity during experimental evolution of Drosophila. *Annual Meeting of the Society for Molecular Biology and Evolution*, júl. 12-16. Bécs, A
 -   Ari E, *et al.* (2006) Testing a new discrete mathematical method for reconstructing the great apes phylogeny based on mitochondrial tRNAs. *Evolution of Biomolecular Structure*, máj. 25-27. Bécs, A
+
+:::

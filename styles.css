@@ -16,3 +16,8 @@ main {
         display: none !important;
     }
 }
+
+
+.justify {
+  text-align: justify;
+}
