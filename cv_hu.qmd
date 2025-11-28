@@ -116,7 +116,7 @@ title: "*Curriculum Vitae* – Ari Eszter"
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
 -   [Omikai adatok elemzése](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
 -   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
--   Filogenetika (EA, GY; EN)
+-   Filogenetika (EA, GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
 
 :::
 

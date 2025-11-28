@@ -116,7 +116,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   [Analysis of Omics data](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
 -   Bioinformatic seminars (L; EN) – for PhD students
 -   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
--   Phylogenetics (L, P; EN)
+-   Phylogenetics (L, P; EN) – for Master students
 
 :::
 
