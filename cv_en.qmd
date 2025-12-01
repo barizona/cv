@@ -255,9 +255,14 @@ title: "*Curriculum Vitae* of Eszter Ari"
 #| echo: false
 #| message: false
 #| warning: false
+
+library(dplyr)
+source("functions.R")
+
 options(googlesheets4.timeout = 60)
 # read google sheet
 pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13qXhW8yNd6KSlE3Taaus-cBUx7O0XkFCkw_IGgVTWNo/edit?usp=sharing")
+
 ```
 
 -   [![Google](images/Google_Scholar_logo.svg.png){fig-alt="Google Scholar" width="24"}](https://scholar.google.com/citations?user=cYCKyr0AAAAJ) [![MTMT](images/mtmt.jpg){width="24"}](https://m2.mtmt.hu/api/publication?cond=published;eq;true&cond=core;eq;true&cond=authors.mtid;eq;10020542&sort=publishedYear,desc&sort=firstAuthor,asc&size=20&fields=template,citations:0,citationCount&cite_type=3&&page=1&labelLang=eng)
@@ -268,52 +273,37 @@ pub_tab <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/13q
 -   Independent citations of all publications (IC): **`r {{ pub_tab$IC_sum[1] }}`**
 -   h-index: **`r {{ pub_tab$h_index[1] }}`**
 
-## Preprints
-
-::: {.justify}
-
 ```{r pub_list_unpublished}
 #| echo: false
 #| message: false
 #| warning: false
 #| results: asis
 
-library(dplyr)
-
-# format the table function
-format_publication_unpublished <- function(authors, year, title, link, journal, 
-                                           volume, note) {
-  # Bold specific authors
-  authors_to_bold <- c("Ari E")
-  for (name in authors_to_bold) {
-    authors <- gsub(name, paste0("**", name, "**"), authors, fixed = TRUE)
-  }
-  # Add note only if it is not NA
-  note_part <- if(!is.na(note)) paste0(" ", note) else ""
-  # Markdown link if not empty
-  if (!is.na(link) && nzchar(link)) {
-  title <- paste0("[", title, "](", link, ")")}
-  paste0("- ", authors, " (", year, ") ", title, " *", journal, "*, ", volume,
-    ".", note_part)
-  }
-
 # Generate formatted publication list
 pub_tab_unpublished <- pub_tab %>% 
   # unpublished
   filter(published == "no")
 
-pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
-  format_publication_unpublished(row["authors"], row["year"], row["title"], 
-                                 row["link"], row["journal"], row["volume"], 
-                                 row["note"])})
+# Only print section if there are any preprints
+if (nrow(pub_tab_unpublished) > 0) {
+  
+  cat("## Preprints\n\n")
+  cat("::: {.justify}\n\n")
 
-# Print the publication list
-cat(paste(pub_list_unpublished, collapse = "\n\n"))
+  pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
+    format_publication_unpublished(row["authors"], row["year"], row["title"], 
+                                   row["link"], row["journal"], row["volume"], 
+                                   row["note"])
+  })
+
+  cat(paste(pub_list_unpublished, collapse = "\n\n"))
+  cat("\n\n:::\n")
+  cat("## Published\n\n")
+  
+}
+
+
 ```
-
-:::
-
-## Published
 
 ::: {.justify}
 
@@ -323,44 +313,34 @@ cat(paste(pub_list_unpublished, collapse = "\n\n"))
 #| warning: false
 #| results: asis
 
-# Format the table function
-format_publication_published <- function(authors, year, title, link, journal, 
-                                         volume, Q, IF, IC, note, important) {
-  # Bold specific authors
-  authors_to_bold <- c("Ari E")
-  for (name in authors_to_bold) {
-    authors <- gsub(name, paste0("**", name, "**"), authors, fixed = TRUE)
-  }
-  # Add note only if it is not NA
-  note_part <- if (!is.na(note)) paste0(" ", note) else ""
-  # Markdown link if not empty
-  if (!is.na(link) && nzchar(link)) {
-  title <- paste0("[", title, "](", link, ")")}
-  # Apply green color styling if important is "yes"
-  text <- paste0(authors, " (", year, ") ", title, " *", journal, "*, ", volume,
-                 ". **", Q, ", IF: ", IF, ", IC: ", IC, note_part, "**")
-  # Check for "important" being "yes" while handling NA
-  if (!is.na(important) && important == "yes") {
-    text <- paste0("- ", "<span style='color: #00ab44;'>", text, "</span>")
-  } else {
-    text <- paste0("- ", text)
-  }
-  return(text)
-}
-
 # Generate formatted publication list
 pub_tab_published <- pub_tab %>% 
   # Filter for published
   filter(published == "yes")
 
-pub_list_published <- apply(pub_tab_published, 1, function(row) {
-  format_publication_published(row["authors"], row["year"], row["title"], 
-                               row["link"], row["journal"], row["volume"], 
-                               row["Q"], row["IF"], row["IC"], row["note"], 
-                               row["important"])})
+# Make sure year is treated as numeric (optional but robust)
+pub_tab_published$year <- as.numeric(pub_tab_published$year)
 
-# Print the publication list
-cat(paste(pub_list_published, collapse = "\n\n"))
+# Get years and sort them in decreasing (reverse) order
+years_ordered <- sort(unique(pub_tab_published$year), decreasing = TRUE)
+
+# Loop over years (newest → oldest), but keep paper order within each year
+for (yr in years_ordered) {
+  cat("### ", yr, "\n\n", sep = "")
+
+  year_rows <- pub_tab_published[pub_tab_published$year == yr, , drop = FALSE]
+
+  entries <- apply(year_rows, 1, function(row) {
+    format_publication_published(
+      row["authors"], row["year"], row["title"], row["link"],
+      row["journal"], row["volume"], row["Q"], row["IF"],
+      row["IC"], row["note"], row["important"]
+    )
+  })
+
+  cat(paste(entries, collapse = "\n\n"))
+  cat("\n\n")
+}
 ```
 
 :::
