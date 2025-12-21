@@ -46,14 +46,26 @@ format_publication_published <- function(authors, year, title, link, journal,
     # Add note only if it is not NA
     note_part <- if (!is.na(note)) paste0(" ", note) else ""
     
+    # Detect "Book Chapter" in note (robust to NA)
+    is_book_chapter <- !is.na(note) && grepl("Book Chapter|Könyvfejezet", note, ignore.case = TRUE)
+    
     # Markdown link if not empty
     if (!is.na(link) && nzchar(link)) {
         title <- paste0("[", title, "](", link, ")")
     }
     
+    # Build metrics part conditionally:
+    # - Book Chapter: show only IC (plus note)
+    # - Otherwise: show Q, IF, IC (plus note)
+    metrics_part <- if (is_book_chapter) {
+        paste0(" **IC: ", IC, note_part, "**")
+    } else {
+        paste0(" **", Q, ", IF: ", IF, ", IC: ", IC, note_part, "**")
+    }
+    
     # Formatting
-    text <- paste0(authors, " (", year, ") ", title, " *", journal, "*, ", volume,
-                   ". **", Q, ", IF: ", IF, ", IC: ", IC, note_part, "**")
+    text <- paste0(authors, " (", year, ") ", title, " *", journal, "*, ", 
+                   volume, ".", metrics_part)
     
     # Check for "important" being "yes" while handling NA
     if (!is.na(important) && important == "yes") {
