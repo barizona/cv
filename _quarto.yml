@@ -20,14 +20,15 @@ website:
 
 format:
   html:
-    theme:
+    theme: 
       light: cosmo
       dark: darkly
     css: styles.css
     link-external-newwindow: true
     canonical-url: https://barizona.github.io/cv/ # Set your GitHub Pages URL
     toc: true          # Enable Table of Contents for HTML
-    toc-depth: 2       # Optional: Set depth of TOC (e.g., 2 for h1 and h2)
+    toc-depth: 1       # Optional: Set depth of TOC (e.g., 2 for h1 and h2)
+    # toc-expand: true
   pdf:
     # mainfont: Proxima Nova
     keep-tex: false # Optional: Keeps intermediate .tex for debugging

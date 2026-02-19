@@ -113,10 +113,10 @@ title: "*Curriculum Vitae* of Eszter Ari"
 ::: {.justify}
 
 -   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
--   [Analysis of Omics data](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (P; EN) – for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/).
--   Bioinformatic seminars (L; EN) – for PhD students
+-   [Analysis of OMICS Data](https://docs.google.com/document/d/1z0--wXp5lenl1WI-p8CLCsZRuaJbkdgog1cmJpR7wlg/edit?usp=drive_link) (P; EN) –  for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/).
 -   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
--   Phylogenetics (L, P; EN) – for Master students
+-   [Phylogenetics]((https://docs.google.com/document/d/17pzfVzzXAVD07_-o5srMJ9eFUK4fjthG3Z1WjKIsWJ0/edit?usp=drive_link)) (L, P; EN) – for Master students
+-   Bioinformatic seminars (L; EN) – for PhD students
 
 :::
 
@@ -152,7 +152,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 :::
 
-# Main Workshops
+# Workshops
 
 ## As Lecturer
 
@@ -217,11 +217,10 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 :::
 
-# Editing, Reviewing, & Organizing Conferences
+# Reviewing, & Organizing Conferences
 
 ::: {.justify}
 
--   Topic editor in [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology)
 -   Reviewer in journals: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Reviewing: PhD Theses (4), Grant proposals: Hungarian Scientific Research Fund Grant (4)
 -   Conference organization as a member of the scientific organizing committee: [The Joint Conference of the Hungarian Physiological Society, the Hungarian Biophysical Society, the Hungarian Society for Microcirculation and Vascular Biology, and the Hungarian Bioinformatics Society](https://www.congress-service.hu/rendezveny/met25), Sep. 2–5, 2025, Szeged, H

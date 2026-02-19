@@ -112,11 +112,11 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 ::: {.justify}
 
--   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)
+-   [Bioinformatika](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing) (EA, GY; EN) – MSc hallgatóknak
+-   [Omikai adatok elemzése](https://docs.google.com/document/d/1z0--wXp5lenl1WI-p8CLCsZRuaJbkdgog1cmJpR7wlg/edit?usp=drive_link) (GY; EN) – MSc hallgatóknak. A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/) kínálatába is.
+-   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (GY; EN) – MSc hallgatóknak
+-   [Filogenetika](https://docs.google.com/document/d/17pzfVzzXAVD07_-o5srMJ9eFUK4fjthG3Z1WjKIsWJ0/edit?usp=drive_link) (EA, GY; EN) – MSc hallgatóknak
 -   Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak
--   [Omikai adatok elemzése](https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/) kínálatába is.
--   [Haladó R programozás biológusoknak](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
--   Filogenetika (EA, GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)
 
 :::
 
@@ -163,7 +163,7 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 :::
 
-# Fontosabb Workshopok
+# Workshopok
 
 ## Oktatóként
 
@@ -227,11 +227,10 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 :::
 
-# Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység
+# Bírálói és Konferencia Szervezői Tevékenység
 
 ::: {.justify}
 
--   Téma szerkesztő (topic editor) a [Frontiers in Systems Biology](https://www.frontiersin.org/journals/systems-biology) folyóiratnál
 -   Bírálat készítés a következő folyóiratokban: *Brief. Bioinformatics* (3); *Evol. Biol.* (1); *Genome Biol. Evol.* (1); *J. Math. Chem.* (4); *Mol. Ecol.* (1); *Mol. Phylogenetics Evol.* (1); *Sci. Rep.* (1); *Opusc. Zool.* (1); *Plos One* (2)
 -   Bírálat: PhD disszertáció: (4), pályázatok: NKFI OTKA (3)
 -   OTDK zsűri tag (4)

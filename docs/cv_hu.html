@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,17 +30,21 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-45f760928dae0b147bf9b9b73d39efb8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-40f906436e47dee42241104adbff32a0.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-804d0dcd2a8db80cdbfdecd80cc68ffb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-23d1f8540040138c38cf8d7376d5e7bb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-804d0dcd2a8db80cdbfdecd80cc68ffb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,12 +78,178 @@ ul.task-list li input[type="checkbox"] {
 <link rel="canonical" href="https://barizona.github.io/cv/">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -110,33 +280,19 @@ ul.task-list li input[type="checkbox"] {
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
-  <ul class="collapse">
-  <li><a href="#munkahelyek" id="toc-munkahelyek" class="nav-link active" data-scroll-target="#munkahelyek">Munkahelyek</a>
-  <ul class="collapse">
-  <li><a href="#aktuális" id="toc-aktuális" class="nav-link" data-scroll-target="#aktuális">Aktuális</a></li>
-  <li><a href="#korábban" id="toc-korábban" class="nav-link" data-scroll-target="#korábban">Korábban</a></li>
-  </ul></li>
+  <ul>
+  <li><a href="#munkahelyek" id="toc-munkahelyek" class="nav-link active" data-scroll-target="#munkahelyek">Munkahelyek</a></li>
   <li><a href="#diplomák-és-fokozatok" id="toc-diplomák-és-fokozatok" class="nav-link" data-scroll-target="#diplomák-és-fokozatok">Diplomák és Fokozatok</a></li>
   <li><a href="#díjak-és-ösztöndíjak" id="toc-díjak-és-ösztöndíjak" class="nav-link" data-scroll-target="#díjak-és-ösztöndíjak">Díjak és Ösztöndíjak</a></li>
   <li><a href="#pályázatok" id="toc-pályázatok" class="nav-link" data-scroll-target="#pályázatok">Pályázatok</a></li>
-  <li><a href="#oktatási-tevékenység" id="toc-oktatási-tevékenység" class="nav-link" data-scroll-target="#oktatási-tevékenység">Oktatási Tevékenység</a>
-  <ul class="collapse">
-  <li><a href="#jelenleg" id="toc-jelenleg" class="nav-link" data-scroll-target="#jelenleg">Jelenleg</a></li>
-  <li><a href="#korábban-1" id="toc-korábban-1" class="nav-link" data-scroll-target="#korábban-1">Korábban</a></li>
-  <li><a href="#egyetemi-jegyzet" id="toc-egyetemi-jegyzet" class="nav-link" data-scroll-target="#egyetemi-jegyzet">Egyetemi Jegyzet</a></li>
-  <li><a href="#egyéb-oktatással-kapcsolatos-tevékenységek" id="toc-egyéb-oktatással-kapcsolatos-tevékenységek" class="nav-link" data-scroll-target="#egyéb-oktatással-kapcsolatos-tevékenységek">Egyéb Oktatással Kapcsolatos Tevékenységek</a></li>
-  </ul></li>
+  <li><a href="#oktatási-tevékenység" id="toc-oktatási-tevékenység" class="nav-link" data-scroll-target="#oktatási-tevékenység">Oktatási Tevékenység</a></li>
   <li><a href="#témavezetés-és-mentorálás" id="toc-témavezetés-és-mentorálás" class="nav-link" data-scroll-target="#témavezetés-és-mentorálás">Témavezetés és Mentorálás</a></li>
-  <li><a href="#fontosabb-workshopok" id="toc-fontosabb-workshopok" class="nav-link" data-scroll-target="#fontosabb-workshopok">Fontosabb Workshopok</a>
-  <ul class="collapse">
-  <li><a href="#oktatóként" id="toc-oktatóként" class="nav-link" data-scroll-target="#oktatóként">Oktatóként</a></li>
-  <li><a href="#részvevőként" id="toc-részvevőként" class="nav-link" data-scroll-target="#részvevőként">Részvevőként</a></li>
-  </ul></li>
+  <li><a href="#workshopok" id="toc-workshopok" class="nav-link" data-scroll-target="#workshopok">Workshopok</a></li>
   <li><a href="#tagságok" id="toc-tagságok" class="nav-link" data-scroll-target="#tagságok">Tagságok</a></li>
   <li><a href="#idegen-nyelvek" id="toc-idegen-nyelvek" class="nav-link" data-scroll-target="#idegen-nyelvek">Idegen Nyelvek</a></li>
   <li><a href="#érdeklődési-területek" id="toc-érdeklődési-területek" class="nav-link" data-scroll-target="#érdeklődési-területek">Érdeklődési Területek</a></li>
   <li><a href="#szakmai-készségek" id="toc-szakmai-készségek" class="nav-link" data-scroll-target="#szakmai-készségek">Szakmai Készségek</a></li>
-  <li><a href="#szerkesztői-bírálói-és-konferencia-szervezői-tevékenység" id="toc-szerkesztői-bírálói-és-konferencia-szervezői-tevékenység" class="nav-link" data-scroll-target="#szerkesztői-bírálói-és-konferencia-szervezői-tevékenység">Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység</a></li>
+  <li><a href="#bírálói-és-konferencia-szervezői-tevékenység" id="toc-bírálói-és-konferencia-szervezői-tevékenység" class="nav-link" data-scroll-target="#bírálói-és-konferencia-szervezői-tevékenység">Bírálói és Konferencia Szervezői Tevékenység</a></li>
   <li><a href="#tudománynépszerűsítés" id="toc-tudománynépszerűsítés" class="nav-link" data-scroll-target="#tudománynépszerűsítés">Tudománynépszerűsítés</a></li>
   <li><a href="#szakmai-weboldalak" id="toc-szakmai-weboldalak" class="nav-link" data-scroll-target="#szakmai-weboldalak">Szakmai Weboldalak</a></li>
   <li><a href="#publikációk" id="toc-publikációk" class="nav-link" data-scroll-target="#publikációk">Publikációk</a></li>
@@ -148,6 +304,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -168,9 +325,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout="[0.7, 0.3]">
 <div class="quarto-layout-row">
 <div id="firstcol" class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
@@ -274,11 +428,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="jelenleg">Jelenleg</h2>
 <div class="justify">
 <ul>
-<li><a href="https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing">Bioinformatika</a> (EA, GY; EN) – MSc hallgatóknak (az előadások és gyakorlatok fele, a kurzus kidolgoása)</li>
+<li><a href="https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=sharing">Bioinformatika</a> (EA, GY; EN) – MSc hallgatóknak</li>
+<li><a href="https://docs.google.com/document/d/1z0--wXp5lenl1WI-p8CLCsZRuaJbkdgog1cmJpR7wlg/edit?usp=drive_link">Omikai adatok elemzése</a> (GY; EN) – MSc hallgatóknak. A kurzus bekerült a <a href="https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/">CHARM-EU</a> kínálatába is.</li>
+<li><a href="https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing">Haladó R programozás biológusoknak</a> (GY; EN) – MSc hallgatóknak</li>
+<li><a href="https://docs.google.com/document/d/17pzfVzzXAVD07_-o5srMJ9eFUK4fjthG3Z1WjKIsWJ0/edit?usp=drive_link">Filogenetika</a> (EA, GY; EN) – MSc hallgatóknak</li>
 <li>Bioinformatikai szemináriumok (EA; EN) – PhD hallgatóknak</li>
-<li><a href="https://docs.google.com/document/d/1yh67xqSb7wCUzOfC6KyEP8uik6nOSJF2_dAXLIwa9oI/edit?usp=sharing">Omikai adatok elemzése</a> (GY; EN) – MSc hallgatóknak (a gyakorlatok fele, a kurzus kidolgoása). A kurzus bekerült a <a href="https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr/">CHARM-EU</a> kínálatába is.</li>
-<li><a href="https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing">Haladó R programozás biológusoknak</a> (GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)</li>
-<li>Filogenetika (EA, GY; EN) – MSc hallgatóknak (a kurzus kidolgoása)</li>
 </ul>
 </div>
 </section>
@@ -325,8 +479,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </section>
-<section id="fontosabb-workshopok" class="level1">
-<h1>Fontosabb Workshopok</h1>
+<section id="workshopok" class="level1">
+<h1>Workshopok</h1>
 <section id="oktatóként" class="level2">
 <h2 class="anchored" data-anchor-id="oktatóként">Oktatóként</h2>
 <div class="justify">
@@ -394,11 +548,10 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </section>
-<section id="szerkesztői-bírálói-és-konferencia-szervezői-tevékenység" class="level1">
-<h1>Szerkesztői, Bírálói és Konferencia Szervezői Tevékenység</h1>
+<section id="bírálói-és-konferencia-szervezői-tevékenység" class="level1">
+<h1>Bírálói és Konferencia Szervezői Tevékenység</h1>
 <div class="justify">
 <ul>
-<li>Téma szerkesztő (topic editor) a <a href="https://www.frontiersin.org/journals/systems-biology">Frontiers in Systems Biology</a> folyóiratnál</li>
 <li>Bírálat készítés a következő folyóiratokban: <em>Brief. Bioinformatics</em> (3); <em>Evol. Biol.</em> (1); <em>Genome Biol. Evol.</em> (1); <em>J. Math. Chem.</em> (4); <em>Mol. Ecol.</em> (1); <em>Mol. Phylogenetics Evol.</em> (1); <em>Sci. Rep.</em> (1); <em>Opusc. Zool.</em> (1); <em>Plos One</em> (2)</li>
 <li>Bírálat: PhD disszertáció: (4), pályázatok: NKFI OTKA (3)</li>
 <li>OTDK zsűri tag (4)</li>
@@ -435,22 +588,32 @@ ul.task-list li input[type="checkbox"] {
 <li>Első, utolsó vagy levelező szerzős publikációk száma: <strong>8</strong></li>
 <li>Első, utolsó vagy levelező szerzős publikációk összesített impakt faktora (IF): <strong>47.22</strong></li>
 <li>Összes publikáció összesített impakt faktora (IF): <strong>238.76</strong></li>
-<li>Összes publikáció független idézőinek száma (IC): <strong>845</strong></li>
+<li>Összes publikáció független idézőinek száma (IC): <strong>865</strong></li>
 <li>h-index: <strong>18</strong></li>
 </ul>
+<section id="megjelenés-előtt" class="level2">
+<h2 class="anchored" data-anchor-id="megjelenés-előtt">Megjelenés Előtt</h2>
+<div class="justify">
+<ul>
+<li>Asbóth A, Stirling T, Méhi O, Apjok G, De Sousa VK, Taylor NMI, Mehdi HH, Papp B, <strong>Ari E</strong>, Kintses B (2026) A global map of receptor-binding protein compatibility for the programmable design of Klebsiella and Acinetobacter phages <em>BioRXiv</em>, NA.</li>
+</ul>
+</div>
+</section>
+<section id="megjelent" class="level2">
+<h2 class="anchored" data-anchor-id="megjelent">Megjelent</h2>
 <div class="justify">
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2025</h3>
 <ul>
-<li><p>Zsichla L, Adravecz L, Müller D, Lemey P, Lakatos Á, <strong>Ari E</strong>, Kusejko K, Kouyos R, Szlávik J, Lakatos B, Áy É &amp; Müller V (2025) <a href="https://doi.org/10.3389/fmicb.2025.1732254">Molecular epidemiology of HIV-1 in Hungary: an evolving contact zone of colliding virus subtypes</a> <em>Frontiers in Microbiology</em>, Online publikálva. <strong>Q1, IF: 4.5, IC: 0</strong></p></li>
+<li><p>Zsichla L, Adravecz L, Müller D, Lemey P, Lakatos Á, <strong>Ari E</strong>, Kusejko K, Kouyos R, Szlávik J, Lakatos B, Áy É &amp; Müller V (2025) <a href="https://doi.org/10.3389/fmicb.2025.1732254">Molecular epidemiology of HIV-1 in Hungary: an evolving contact zone of colliding virus subtypes</a> <em>Frontiers in Microbiology</em>, 16: 1732254. <strong>Q1, IF: 4.5, IC: 0</strong></p></li>
 <li><p>Balogh GM, Koncz B, Asztalos L, <strong>Ari E</strong>, Papp B, Szebeni GJ, Gémes N, Pál C &amp; Manczinger M (2025) <a href="https://doi.org/10.1038/s41467-025-65251-8">C&gt;U mutations generate immunogenic peptides in SARS-CoV-2.</a> <em>Nature Communications</em>, 16: 10156. <strong>D1, IF: 15.7, IC: 0</strong></p></li>
-<li><p>Daruka L, Czikkely MS, Szili P, Farkas Z, Balogh D, Maharramov E, Vu TH, Sipos L, Vincze BD, Grézal G, Juhász Sz, Dunai A, Daraba A, Számel M, Sári T, Stirling T, Vásárhelyi BM, <strong>Ari E</strong>, Christodoulou C, Manczinger M, Enyedi MZs, Jaksa G, van Houte S, Pursey E, Papp CG, Szilovics Z, Pintér L, Haracska L, Gácser A, Kintses B, Papp B &amp; Pál Cs (2025) <a href="https://doi.org/10.1038/s41564-024-01891-8">ESKAPE pathogens rapidly develop resistance against antibiotics in development.</a> <em>Nature Microbiology</em>, 10(2): 313-331. <strong>D1, IF: 20.5, IC: 56</strong></p></li>
+<li><p>Daruka L, Czikkely MS, Szili P, Farkas Z, Balogh D, Maharramov E, Vu TH, Sipos L, Vincze BD, Grézal G, Juhász Sz, Dunai A, Daraba A, Számel M, Sári T, Stirling T, Vásárhelyi BM, <strong>Ari E</strong>, Christodoulou C, Manczinger M, Enyedi MZs, Jaksa G, van Houte S, Pursey E, Papp CG, Szilovics Z, Pintér L, Haracska L, Gácser A, Kintses B, Papp B &amp; Pál Cs (2025) <a href="https://doi.org/10.1038/s41564-024-01891-8">ESKAPE pathogens rapidly develop resistance against antibiotics in development.</a> <em>Nature Microbiology</em>, 10(2): 313-331. <strong>D1, IF: 20.5, IC: 62</strong></p></li>
 </ul>
 </section>
 <section id="section-1" class="level3">
 <h3 class="anchored" data-anchor-id="section-1">2024</h3>
 <ul>
-<li><p>Koncz M, Stirling T, Mehdi HH, Méhi O, Eszenyi B, Asbóth A, Apjok G, Tóth Á, Orosz L, Vásárhelyi BM, <strong>Ari E</strong>, Daruka L, Polgár TF, Schneider Gy, Zalokh SA, Számel M, Fekete G, Bohár B, Nagy Varga K, Visnyovszki Á, Székely E, Licker MS, Izmendi O, Costache C, Gajic I, Lukovic B, Molnár Sz, Szőcs-Gazdi UO, Bozai Cs, Indreas M, Kristóf K, Van der Henst C, Breine A; Pál C, Papp B &amp; Kintses B (2024) <a href="https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4">Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens.</a> <em>Cell</em>, 187(21): 5901 - 5918.e28. <strong>D1, IF: 45.5, IC: 33</strong></p></li>
+<li><p>Koncz M, Stirling T, Mehdi HH, Méhi O, Eszenyi B, Asbóth A, Apjok G, Tóth Á, Orosz L, Vásárhelyi BM, <strong>Ari E</strong>, Daruka L, Polgár TF, Schneider Gy, Zalokh SA, Számel M, Fekete G, Bohár B, Nagy Varga K, Visnyovszki Á, Székely E, Licker MS, Izmendi O, Costache C, Gajic I, Lukovic B, Molnár Sz, Szőcs-Gazdi UO, Bozai Cs, Indreas M, Kristóf K, Van der Henst C, Breine A; Pál C, Papp B &amp; Kintses B (2024) <a href="https://www.cell.com/cell/fulltext/S0092-8674(24)01027-4">Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens.</a> <em>Cell</em>, 187(21): 5901 - 5918.e28. <strong>D1, IF: 45.5, IC: 35</strong></p></li>
 <li><p><span style="color: #00ab44;">Turek C, Ölbei M, Stirling T, Fekete G, Tasnádi E, Gul L, Bohár B, Papp B, Jurkowski W &amp; <strong>Ari E</strong>* (2024) <a href="https://doi.org/10.1186/s12859-024-05948-7">mulea - an R package for enrichment analysis using various ontologies and empirical false discovery rate.</a> <em>BMC Bioinformatics</em>, 25(1): 334. <strong>Q1, IF: 2.9, IC: 1 “Impactful paper” az <a href="https://ooir.org/j.php?issn=1471-2105">OOIR Observatory of International Research</a> szerint. (*levelező szerző)</strong></span></p></li>
 </ul>
 </section>
@@ -460,36 +623,36 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Kiss V, Gerber D, Szeifert B, Székely O, Egyed B, Gyuris B, I Giblin J, Horváth A, Palcsu L, Köhler K, Kulcsár G, Kustár Á, Szeverényi V, Fábián S, Gusztáv Mende B, <strong>Ari E</strong> &amp; Szécsényi-Nagy A (2023) <a href="https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/1280/chapter/18010">Lifeway narratives of a Bronze Age community from Balatonkeresztúr (Western Hungary) based on bioarchaeological analyses.</a> <em>In: Meller, Harald; Krause, Johannes; Haak, Wolfgang; Risch, Roberto (ed.) Kinship, sex, and biological relatedness: the contribution of archaeogenetics to the understanding of social and biological relations</em>, 15: Mitteldeutscher Archäologentag vom 6. bis 8. Oktober 2022 in Halle (Saale) Németország: Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt, Landesmuseum für Vorgeschichte 344 p.&nbsp;pp.&nbsp;233-248. <strong>IC: 0 Könyvfejezet</strong></p></li>
 <li><p><span style="color: #00ab44;">Gerber D, Szeifert B, Székely O, Egyed B, Gyuris B, Giblin JI, Horváth A, Köhler K, Kulcsár G, Kustár Á, Major I, Molnár M, Palcsu L, Szeverényi V, Fábián S, Mende BG, Bondár M, <strong>Ari E</strong>*, Kiss V* &amp; Szécsényi-Nagy A* (2023) <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad182/7240678">Interdisciplinary analyses of Bronze Age communities from Western Hungary reveal complex population histories.</a> <em>Molecular Biology and Evolution</em>, 40(9): msad182. <strong>D1, IF: 11.0, IC: 13 (*megosztott levelező szerző)</strong></span></p></li>
 <li><p>Bacsur P, Rutka M, Resál T, Szántó K, Jójárt B, Bálint A, <strong>Ari E</strong>, Walliyulah A, Kintses B, Fehér T, Asbóth A, Pigniczki D, Bor R, Fábián A, Maléth J, Szepes Z, Farkas K &amp; Molnár T (2023) <a href="https://journals.sagepub.com/doi/full/10.1177/17562848231174298">Effects of bowel cleansing on the composition of the gut microbiome in inflammatory bowel disease patients and healthy controls.</a> <em>Therapeutic Advances in Gastroenterology</em>, 16: 17562848231174298. <strong>Q1, IF: 3.9, IC: 18</strong></p></li>
-<li><p>Sturm Á, Saskői É, Hotzi B, Tarnóci A, Barna J, Bodnár F, Sharma H, Kovács T, <strong>Ari E</strong>, Weinhardt N, Kerepesi C, Perczel A, Ivics Z &amp; Vellai T (2023) <a href="https://doi.org/10.1038/s41467-023-40957-9">Downregulation of transposable elements extends lifespan in <em>Caenorhabditis elegans</em>.</a> <em>Nature Communications</em>, 14(1): 5278. <strong>D1, IF: 14.7, IC: 30</strong></p></li>
+<li><p>Sturm Á, Saskői É, Hotzi B, Tarnóci A, Barna J, Bodnár F, Sharma H, Kovács T, <strong>Ari E</strong>, Weinhardt N, Kerepesi C, Perczel A, Ivics Z &amp; Vellai T (2023) <a href="https://doi.org/10.1038/s41467-023-40957-9">Downregulation of transposable elements extends lifespan in <em>Caenorhabditis elegans</em>.</a> <em>Nature Communications</em>, 14(1): 5278. <strong>D1, IF: 14.7, IC: 31</strong></p></li>
 </ul>
 </section>
 <section id="section-3" class="level3">
 <h3 class="anchored" data-anchor-id="section-3">2022</h3>
 <ul>
 <li><p><span style="color: #00ab44;"><strong>Ari E</strong>, Vásárhelyi BM, Kemenesi G, Tóth GE, Zana B, Somogyi B, Lanszki Z, Röst G, Jakab F, Papp B &amp; Kintses B (2022) <a href="https://doi.org/10.1093/ve/veac069">A single early introduction governed viral diversity in the second wave of SARS-CoV-2 epidemic in Hungary.</a> <em>Virus Evolution</em>, 8(2): veac069. <strong>D1, IF: 5.3, IC: 4</strong></span></p></li>
-<li><p>Csabai L, Fazekas D, Kadlecsik T, Szalay-Bekő M, Bohár B, Madgwick M, Módos D, Ölbei M, Gul L, Sudhakar P, Kubisch J, Oyeyemi OJ, Liska O, <strong>Ari E</strong>, Hotzi B, Billes VA, Molnár E, Földvári-Nagy L, Csályi K, Demeter A, Pápai N, Koltai M, Varga M, Lenti K, Farkas IJ, Türei D, Csermely P, Vellai T &amp; Korcsmáros T (2022) <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab909/6389625">SignaLink3: A multi-layered resource to uncover tissue-specific signaling networks.</a> <em>Nucleic Acids Research</em>, 50(D1): 701-709. <strong>D1, IF: 14.9, IC: 36</strong></p></li>
-<li><p><span style="color: #00ab44;">Liska O, Bohár B, Hidas H, Korcsmáros T, Papp B, Fazekas D &amp; <strong>Ari E</strong>* (2022) <a href="https://doi.org/10.1093/database/baac083">TFLink: An integrated gateway to access transcription factor - target gene interactions for multiple species.</a> <em>Database</em>, 2022, baac083. <strong>D1, IF: 5.8, IC: 128 “High impact paper” a <a href="http://scientometrics.org">scientometrics.org</a> szerint. (*levelező szerző)</strong></span></p></li>
+<li><p>Csabai L, Fazekas D, Kadlecsik T, Szalay-Bekő M, Bohár B, Madgwick M, Módos D, Ölbei M, Gul L, Sudhakar P, Kubisch J, Oyeyemi OJ, Liska O, <strong>Ari E</strong>, Hotzi B, Billes VA, Molnár E, Földvári-Nagy L, Csályi K, Demeter A, Pápai N, Koltai M, Varga M, Lenti K, Farkas IJ, Türei D, Csermely P, Vellai T &amp; Korcsmáros T (2022) <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab909/6389625">SignaLink3: A multi-layered resource to uncover tissue-specific signaling networks.</a> <em>Nucleic Acids Research</em>, 50(D1): 701-709. <strong>D1, IF: 14.9, IC: 37</strong></p></li>
+<li><p><span style="color: #00ab44;">Liska O, Bohár B, Hidas H, Korcsmáros T, Papp B, Fazekas D &amp; <strong>Ari E</strong>* (2022) <a href="https://doi.org/10.1093/database/baac083">TFLink: An integrated gateway to access transcription factor - target gene interactions for multiple species.</a> <em>Database</em>, 2022, baac083. <strong>D1, IF: 5.8, IC: 133 “High impact paper” a <a href="http://scientometrics.org">scientometrics.org</a> szerint. (*levelező szerző)</strong></span></p></li>
 </ul>
 </section>
 <section id="section-4" class="level3">
 <h3 class="anchored" data-anchor-id="section-4">2020</h3>
 <ul>
-<li>Bálint A, Farkas K, Kintses B, Méhi O, Vásárhelyi BM, <strong>Ari E</strong>, Pál C, Madácsy T, Maléth J, Szántó KJ, Nagy I, Rutka M, Bacsur P, Szűcs D, Szepes Z, Nagy F, Fábián A, Bor R, Milassin Á &amp; Molnár T (2020) <a href="https://www.mdpi.com/1424-8247/13/11/346/htm">Functional anatomical changes in ulcerative colitis patients determine their gut microbiota composition and consequently the possible treatment outcome.</a> <em>Pharmaceuticals</em>, 13(11): 346-362. <strong>D1, IF: 5.68, IC: 25</strong></li>
+<li>Bálint A, Farkas K, Kintses B, Méhi O, Vásárhelyi BM, <strong>Ari E</strong>, Pál C, Madácsy T, Maléth J, Szántó KJ, Nagy I, Rutka M, Bacsur P, Szűcs D, Szepes Z, Nagy F, Fábián A, Bor R, Milassin Á &amp; Molnár T (2020) <a href="https://www.mdpi.com/1424-8247/13/11/346/htm">Functional anatomical changes in ulcerative colitis patients determine their gut microbiota composition and consequently the possible treatment outcome.</a> <em>Pharmaceuticals</em>, 13(11): 346-362. <strong>D1, IF: 5.68, IC: 26</strong></li>
 </ul>
 </section>
 <section id="section-5" class="level3">
 <h3 class="anchored" data-anchor-id="section-5">2019</h3>
 <ul>
-<li><p>Kintses B, Jangir PK, Fekete G, Számel M, Méhi O, Spohn R, Daruka L, Martins A, Hosseinnia A, Gagarinova A, Kim S, Phanse S, Csörgö B, Györkei Á, <strong>Ari E</strong>, Lázár V, Faragó A, Nagy I, Babu M, Pál C &amp; Papp B (2019) <a href="https://www.nature.com/articles/s41467-019-13618-z">Chemical-genetic profiling reveals limited cross-resistance between antimicrobial peptides with different modes of action.</a> <em>Nature Communications</em>, 10(1): 5731. <strong>D1, IF: 12.12, IC: 43</strong></p></li>
+<li><p>Kintses B, Jangir PK, Fekete G, Számel M, Méhi O, Spohn R, Daruka L, Martins A, Hosseinnia A, Gagarinova A, Kim S, Phanse S, Csörgö B, Györkei Á, <strong>Ari E</strong>, Lázár V, Faragó A, Nagy I, Babu M, Pál C &amp; Papp B (2019) <a href="https://www.nature.com/articles/s41467-019-13618-z">Chemical-genetic profiling reveals limited cross-resistance between antimicrobial peptides with different modes of action.</a> <em>Nature Communications</em>, 10(1): 5731. <strong>D1, IF: 12.12, IC: 44</strong></p></li>
 <li><p><span style="color: #00ab44;">Kintses B*, Méhi O*, <strong>Ari E</strong>*, Számel M, Györkei Á, Jangir PK, Nagy I, Pál F, Fekete G, Tengölics R, Nyerges Á, Likó I, Bálint A, Molnár T, Bálint B, Vásárhelyi BM, Bustamante M, Papp B &amp; Pál C (2019) <a href="https://www.nature.com/articles/s41564-018-0313-5">Phylogenetic barriers to horizontal transfer of antimicrobial peptide resistance genes in the human gut microbiota.</a> <em>Nature Microbiology</em>, 4(3): 447-458. <strong>D1, IF: 15.54, IC: 100 Craig MacLean ajánlásával <a href="https://facultyopinions.com/prime/734649950#eval793557383">F1000Prime</a>, mint a tudományterület nagy hatású munkája. Beválogatták a <a href="https://www.nature.com/collections/gjdhfgjiid">Nature Gut Microbiota core collection</a>-ba. (*megosztott első szerzőség)</strong></span></p></li>
-<li><p>Sudhakar P, Claire-Jacomin A, Hautefort I, Samavedam S, Fatemian K, <strong>Ari E</strong>, Gul L, Demeter A, Jones E, Korcsmaros T &amp; Nezis JP (2019) <a href="https://www.tandfonline.com/doi/full/10.1080/15548627.2019.1590519">Targeted interplay between bacterial pathogens and host autophagy.</a> <em>Autophagy</em>, 15(9): 1620-1633. <strong>D1, IF: 11.06, IC: 47</strong></p></li>
-<li><p>Sun D, Ren X, <strong>Ari E</strong>, Korcsmaros T, Csermely P &amp; Wu L-Y (2019) <a href="https://academic.oup.com/bib/article-abstract/20/1/89/4079498?redirectedFrom=fulltext">Discovering cooperative biomarkers for heterogeneous complex disease diagnoses.</a> <em>Briefings in Bioinformatics</em>, 20(1): 89-101. <strong>D1, IF: 9.10, IC: 18</strong></p></li>
+<li><p>Sudhakar P, Claire-Jacomin A, Hautefort I, Samavedam S, Fatemian K, <strong>Ari E</strong>, Gul L, Demeter A, Jones E, Korcsmaros T &amp; Nezis JP (2019) <a href="https://www.tandfonline.com/doi/full/10.1080/15548627.2019.1590519">Targeted interplay between bacterial pathogens and host autophagy.</a> <em>Autophagy</em>, 15(9): 1620-1633. <strong>D1, IF: 11.06, IC: 48</strong></p></li>
+<li><p>Sun D, Ren X, <strong>Ari E</strong>, Korcsmaros T, Csermely P &amp; Wu L-Y (2019) <a href="https://academic.oup.com/bib/article-abstract/20/1/89/4079498?redirectedFrom=fulltext">Discovering cooperative biomarkers for heterogeneous complex disease diagnoses.</a> <em>Briefings in Bioinformatics</em>, 20(1): 89-101. <strong>D1, IF: 9.10, IC: 19</strong></p></li>
 </ul>
 </section>
 <section id="section-6" class="level3">
 <h3 class="anchored" data-anchor-id="section-6">2018</h3>
 <ul>
-<li>Nyerges Á, Csörgő B, Draskovits G, Kintses B, Szili P, Ferenc Gy, Révész T, <strong>Ari E</strong>, Nagy I, Bálint B, Vásárhelyi BM, Bihari P, Számel M, Balogh D, Papp H, Kalapis D, Papp B &amp; Pál C (2018) <a href="https://www.pnas.org/content/115/25/E5726">Directed evolution of multiple genomic loci allows the prediction of antibiotic resistance.</a> <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 115(25): E5726-E5735. <strong>D1, IF: 9.58, IC: 91</strong></li>
+<li>Nyerges Á, Csörgő B, Draskovits G, Kintses B, Szili P, Ferenc Gy, Révész T, <strong>Ari E</strong>, Nagy I, Bálint B, Vásárhelyi BM, Bihari P, Számel M, Balogh D, Papp H, Kalapis D, Papp B &amp; Pál C (2018) <a href="https://www.pnas.org/content/115/25/E5726">Directed evolution of multiple genomic loci allows the prediction of antibiotic resistance.</a> <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 115(25): E5726-E5735. <strong>D1, IF: 9.58, IC: 92</strong></li>
 </ul>
 </section>
 <section id="section-7" class="level3">
@@ -540,6 +703,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 </div>
+</section>
 </section>
 <section id="konferencia-előadások" class="level1">
 <h1>Konferencia Előadások</h1>
@@ -614,385 +778,261 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
     }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
         }
       }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
       return false;
     }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
         }
-        return container.innerHTML
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -1000,185 +1040,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 

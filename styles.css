@@ -21,3 +21,13 @@ main {
 .justify {
   text-align: justify;
 }
+
+/* Force Quarto TOC to be visible even if marked as bootstrap 'collapse' */
+nav#TOC ul.collapse {
+  display: block !important;
+  height: auto !important;
+  visibility: visible !important;
+}
+
+
+

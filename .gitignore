@@ -4,3 +4,5 @@ _site/
 .Rproj.user
 to_delete/
 notes.txt
+
+**/*.quarto_ipynb
