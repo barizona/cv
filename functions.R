@@ -17,17 +17,15 @@ format_publication_unpublished <- function(authors, year, title, link, journal,
         authors <- gsub(name, paste0("**", name, "**"), authors, fixed = TRUE)
     }
     
-    # Add note only if it is not NA
-    note_part <- if(!is.na(note)) paste0(" ", note) else ""
-    
-    # Markdown link if not empty
     if (!is.na(link) && nzchar(link)) {
         title <- paste0("[", title, "](", link, ")")
     }
     
-    # Formatting
-    paste0("- ", authors, " (", year, ") ", title, " *", journal, "*, ", volume,
-           ".", note_part)
+    # Add volume and note only if it is not NA
+    volume_part <- if (!is.na(volume) && nzchar(volume)) paste0(", ", volume) else ""
+    note_part   <- if (!is.na(note)   && nzchar(note))   paste0(" ", note)    else ""
+    
+    paste0("- ", authors, " (", year, ") ", title, " *", journal, "*", volume_part, ".", note_part)
 }
 
 

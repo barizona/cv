@@ -288,12 +288,10 @@ if (nrow(pub_tab_unpublished) > 0) {
   
   cat("## Preprints\n\n")
   cat("::: {.justify}\n\n")
-
-  pub_list_unpublished <- apply(pub_tab_unpublished, 1, function(row) {
-    format_publication_unpublished(row["authors"], row["year"], row["title"], 
-                                   row["link"], row["journal"], row["volume"], 
-                                   row["note"])
-  })
+  
+    pub_list_unpublished <- pub_tab_unpublished %>%
+      dplyr::select(authors, year, title, link, journal, volume, note) %>%
+      purrr::pmap_chr(format_publication_unpublished)
 
   cat(paste(pub_list_unpublished, collapse = "\n\n"))
   cat("\n\n:::\n")
@@ -329,13 +327,10 @@ for (yr in years_ordered) {
 
   year_rows <- pub_tab_published[pub_tab_published$year == yr, , drop = FALSE]
 
-  entries <- apply(year_rows, 1, function(row) {
-    format_publication_published(
-      row["authors"], row["year"], row["title"], row["link"],
-      row["journal"], row["volume"], row["Q"], row["IF"],
-      row["IC"], row["note"], row["important"]
-    )
-  })
+  entries <- year_rows %>%
+      dplyr::select(authors, year, title, link, journal, volume, Q, IF, IC, 
+                    note, important) %>%
+      purrr::pmap_chr(format_publication_published)
 
   cat(paste(entries, collapse = "\n\n"))
   cat("\n\n")
