@@ -341,7 +341,7 @@ for (yr in years_ordered) {
 
 # Oral Presentations in Conferences
 
--   Nr. of international conference talks: **9**
+-   Nr. of international conference talks: **10**
 -   Nr. of national conference talks: **7**
 -   As an invited speaker\*: **4**
 
@@ -349,6 +349,7 @@ for (yr in years_ordered) {
 
 ::: {.justify}
 
+-   Ari E, *et al.* (2026) Large language models unlock big-data-scale curation of sequencing metadata. [*EMBO | EMBL Symposium: AI and biology*](https://www.embl.org/about/info/course-and-conference-office/events/ees26-02/), 10-13 March, Heidelberg, G
 -   Ari E\*, Kada N (2025) Application of large language models for the standardization of DNA sequencing metadata. [*2nd National HUN-REN Cloud Meeting*](https://terem.sztaki.hu/event/68/timetable/), 13 Nov, Budapest, H
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), 8 Nov, Budapest, H
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), 17-19 Oct, Szeged, H
@@ -381,13 +382,14 @@ for (yr in years_ordered) {
 
 # Poster Presentations in Conferences
 
--   Nr. of international conference posters: **10**
+-   Nr. of international conference posters: **11**
 
 <!-- Insert a blank line here -->
 
 ::: {.justify}
 
--   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), 21-23 May, Hinxton, UK
+-   Ari E, *et al.* (2026) Standardizing metadata for the AllTheBacteria collection: An LLM-curated resource for 650,000 genomes, [*Wellcome Connecting Science: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies*](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-20260323/), 23-25 March, Hinxton, UK
+-   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Wellcome Connecting Science: Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), 21-23 May, Hinxton, UK
 -   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), 12-18 Sep, (Trieste, I) online
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*, [*EMBO Workshop: Predicting evolution*](https://www.embl.org/about/info/course-and-conference-office/events/pev23-01/), 11-14 Jul, Heidelberg, D
 -   Ari E, *et al.* (2022) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://www.lamg.info/_files/ugd/2e355c_d62492daad5840479e27865c3233bfba.pdf). [*Lake Arrowhead Microbial Genomics Conference*](https://www.lamg.info/), 11-15 Sep, Lake Arrowhead, CA, USA

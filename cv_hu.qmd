@@ -376,7 +376,7 @@ for (yr in years_ordered) {
 
 # Konferencia Előadások
 
--   Nemzetközi konferencia előadások száma: **9**
+-   Nemzetközi konferencia előadások száma: **10**
 -   Hazai konferencia előadások száma: **7**
 -   Meghívott előadóként\*: **4**
 
@@ -384,6 +384,7 @@ for (yr in years_ordered) {
 
 ::: {.justify}
 
+-   Ari E, *et al.* (2026) Large language models unlock big-data-scale curation of sequencing metadata. [*EMBO | EMBL Symposium: AI and biology*](https://www.embl.org/about/info/course-and-conference-office/events/ees26-02/), márc. 10-13. Heidelberg, G
 -   Ari E\*, Kada N (2025) Nagy nyelvi modellek alkalmazása DNS szekvenálási metaadatok standardizálására. [*II. Országos HUN-REN Cloud Találkozó*](https://terem.sztaki.hu/event/68/timetable/), nov. 13. Budapest
 -   Ari E, *et al.* (2024) mulea - egy többféle ontológiát és empirikus FDR-t alkalmazó dúsulást vizsgáló R csomag. [*Bioinformatika, a Magyar Tudomány Ünnepén*](https://www.mabit.org.hu/doc/hu/society/conferences/2024/bioinf_2024/1), nov. 8. Budapest
 -   Ari E, *et al.* (2024) mulea - an R package for enrichment analysis using multiple ontologies and empirical false discovery rate. [*SciComp24 Conference*](https://indico.wigner.hu/event/1583/overview), okt. 17-19. Szeged
@@ -416,12 +417,13 @@ for (yr in years_ordered) {
 
 # Konferencia Poszter Prezentációk
 
--   Nemzetközi konferencia poszterek száma: **10**
+-   Nemzetközi konferencia poszterek száma: **11**
 
 <!-- Insert a blank line here -->
 
 ::: {.justify}
 
+-   Ari E, *et al.* (2026) Standardizing metadata for the AllTheBacteria collection: An LLM-curated resource for 650,000 genomes, [*Wellcome Connecting Science: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies*](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-20260323/), márc. 23-25. Hinxton, UK
 -   Ari E, *et al.* (2025) Virulence gene content and ecological niche shape the spread of antibiotic resistance in *Escherichia coli*, [*Applied Bioinformatics and Public Health Microbiology 2025*](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/), máj. 21-23, Hinxton, UK
 -   Ari E, *et al.* (2023) [Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*](https://indico.ictp.it/event/10210/material/4/0.pdf), [*EMBO Workshop: Plasmids as vehicles of AMR spread*](https://meetings.embo.org/event/23-amr-plasmids), szep. 12-18. (Trieste, I) online
 -   Ari E, *et al.* (2023) Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*, [*EMBO Workshop: Predicting evolution*](https://www.embl.org/about/info/course-and-conference-office/events/pev23-01/), júl. 11-14. Heidelberg, D
