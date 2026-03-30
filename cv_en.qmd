@@ -37,7 +37,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 > H-1117, Pázmány Péter stny. 1/C, Budapest, Hungary
 
--   2025 - present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Molecular Genetics, Cell- and Developmental Biology specialisation.
+-   2025 - present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Bioinformatics specialisation.
 -   2019 - 2025: Assistant professor
 -   2009 - 2019: Assistant lecturer
 -   2007 - 2009: Scientific research associate
