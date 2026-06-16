@@ -87,6 +87,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 ::: {.justify}
 
+-   János Bolyai Research Fellowship of Hungarian Academy of Sciences, 2026, Budapepest, H
 -   Outstanding scientific publication award from Excellence Fund of Eötvös Loránd University, 2024 and 2022, Budapest, H
 -   Junior fellowship at Collegium Budapest – Institute for Advanced Study, 2009, Budapest, H
 -   Scholarship of the Fac. Veterinary Sci., Szent István Univ., 2003 - 2004, Budapest, H

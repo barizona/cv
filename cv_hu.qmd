@@ -86,6 +86,7 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 ::: {.justify}
 
+-   A Magyar Tudományos Akadémia [Bolyai János Kutatási Ösztöndíja](https://mta.hu/mta_hirei/a-2026-ban-bolyai-janos-kutatasi-osztondijat-nyert-kutatok-nevsora-115470), 2026, Budapest
 -   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://www.elte.hu/content/az-egyetemi-kivalosagi-alapbol-tamogatott-palyazatok-2024.t.30890), 2024, Budapest
 -   Az ELTE Egyetemi Kiválósági Alap [Kiemelkedő tudományos publikáció díja](https://biologia.elte.hu/content/intezeti-sikerek-az-egyetemi-kivalosagi-alap-palyazatan.t.31475), 2022, Budapest
 -   Junior fellowship, Collegium Budapest – Institute for Advanced Study, 2009, Budapest
