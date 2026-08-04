@@ -245,7 +245,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 -   Supervising the creation of the [TFLink](https://tflink.net/), a transcription factor - target gene database.
 -   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) *R* packages for functional enrichment analysis and dataset.
--   Supervising the creation of the [treepruner](https://pypi.org/project/treepruner/) *R* and *Python* packages for pruning too long branches of phyloegnetic trees.
+-   Supervising the creation of the *treetune* [*R*](https://github.com/ELTEbioinformatics/treetune) and [*Python*](https://pypi.org/project/treepruner/) packages for pruning too long branches of phyloegnetic trees.
 
 :::
 
