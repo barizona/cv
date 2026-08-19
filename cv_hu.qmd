@@ -160,8 +160,8 @@ title: "*Curriculum Vitae* – Ari Eszter"
 ::: {.justify}
 
 -   [Személyes lap az Országos Doktori Tanács honlapján](https://doktori.hu/index.php?menuid=192&sz_ID=11414&lang=HU)
--   **Folyamatban lévő témavezetések**: 2 társ-témavezetett PhD hallgató, 2 MSc, 1 TDK hallgató
--   **Végzett hallgatók**: 4 társ-témavezetett PhD, 6 MSc, 14 BSc, 9 TDK hallgató – közülük 1 OTDK 2. helyezés
+-   **Folyamatban lévő témavezetések**: 3 társ-témavezetett PhD hallgató, 2 MSc hallgató
+-   **Végzett hallgatók**: 4 társ-témavezetett PhD, 7 MSc, 14 BSc, 10 TDK hallgató – közülük 1 OTDK 2. helyezés
 -    **Mentorálás**: 1 Egyetemi tanulmányokat külföldön folytató magyar hallgatók nyári gyakorlatának támogatása c. pályázattal, [Szent-Györgyi Mentorprogram](https://www.edu-sci.org/mentor/szent-gyoergyi-mentor/) mentorálás
 
 :::
@@ -172,6 +172,7 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 ::: {.justify}
 
+-   *Analysis of omics data PR* kurzus a [Budapest Summer University 2026]( https://www.elte.hu/en/elte-budapest-summer-university)-n, ELTE, Budapest
 -   [*ELTE Kárpát-medencei Magyar Nyári Egyetem*](https://www.elte.hu/content/szakmai-programok.t.25513?m=935), 2022: A magyarországi COVID-járványt meghatározó vírusváltozatok genetikai vizsgálata
 -   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Bécs, Ausztria: RNA-Seq adatelemzés gyakorlat
 

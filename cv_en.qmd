@@ -147,8 +147,8 @@ title: "*Curriculum Vitae* of Eszter Ari"
 ::: {.justify}
 
 -   [The personal site at the website of Hungarian Doctoral Council](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=11414)
--   **At present**: Co-supervising 2 PhD students, supervising 2 Master students, and 1 Scientific Student Association student
--   **Graduated students**: 4 co-supervised PhD, 6 Master, 14 Bachelor, and 9 Scientific Student Association students
+-   **At present**: Co-supervising 3 PhD students, supervising 2 Master students
+-   **Graduated students**: 4 co-supervised PhD, 7 Master, 14 Bachelor, and 10 Scientific Student Association students
 -   **Mentoring:** 1 with Support for summer internships for Hungarian students studying abroad grant, [Szent-Györgyi Mentoring Program](https://www.edu-sci.org/mentor/szent-gyoergyi-mentor/) mentoring
 
 :::
@@ -159,6 +159,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 ::: {.justify}
 
+-   *Analysis of omics data PR* course at [Budapest Summer University 2026]( https://www.elte.hu/en/elte-budapest-summer-university), ELTE, Budapest, H
 -   *ELTE Carpathian Basin Hungarian Summer University*, 2022: Genetic analysis of the virus variants determining the COVID epidemic in Hungary
 -   [*Practical Course on Next Generation Sequencing for Population Genetics and Experimental Evolution*](https://www.popgen-vienna.at/training/other-courses/ngs-workshop-2014/), 2014 Vet-Med Uni Vienna, A: Practicals about RNA-seq data analysis
 
