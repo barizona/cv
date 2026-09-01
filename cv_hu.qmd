@@ -99,9 +99,10 @@ title: "*Curriculum Vitae* – Ari Eszter"
 
 ::: {.justify}
 
--   **Támogatott Kutatócsoportok Programja 2025 - 2027**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Szám*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
+-   Az ELTE alvállalkozói részvételének vezetése a **Misszióvezérelt Nemzeti Laboratórium 2026–2030** projektben; *Cím*: Antibiotikum-rezisztencia és mikrobiális egészség Misszióvezérelt Nemzeti Laboratórium; *vezető kutató*: Papp Balázs; *Pályázati azonosító*: [2026-4.1.1-MISSZIÓK-2026-00023](https://nkfih.gov.hu/palyazoknak/nkfi-alap/tamogatott-projektek-2026-411-missziok)
+-   **Támogatott Kutatócsoportok Programja 2025 - 2027**: *Szerep*: Társpályázó; *Cím*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *Vezető kutató*: Papp Balázs; *Pályázati azonosító*: TKCS-2024/66; az ELTE-re elnyert összeg: 30 000 000 Ft
 -   **ELTE nemzetközi online kurzusok megtartására 2025 és 2026**: az "Omikai adatok elemzése GY" bekerült a [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/) kurzusai közé ; 2 × 500 000 HUF
--   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; szám: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
+-   **NKFIH OTKA PD 2020 - 2023**: *Szerep*: Vezető kutató; *Cím*: Hogyan jönnek létre a “szuperbaktériumok”? - Rezisztencia- és virulenciagének átadásának szisztematikus vizsgálata a humán mikrobiom és patogén baktériumok között; *Pályázati azonosító*: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&lang=HU&num=131839); 25 500 000 Ft
 -   **Kiemelten magas színvonalú oktatási tevékenység támogatása, ELTE 2020**: *Szerep*: Vezető kutató; *Cím*: Számítógépes oktatási termében lévő infrastruktúra fejlesztése; 4 000 000 Ft
 -   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**: *Szerep*: Témavezető; Zeljko Popovic ösztöndíjához kapcsolódva; *Cím*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3 000 EUR
 
