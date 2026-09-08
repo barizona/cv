@@ -114,7 +114,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 ::: {.justify}
 
--   [Bioinformatics](https://docs.google.com/document/d/1pBIYs0gVawKaT1g_Sf9lYj4QCJCE76MJdwDohb6FXFI/edit?usp=drive_link) (L, P; EN) – for Master students
+-   [Bioinformatics](https://docs.google.com/document/d/1ZRcBadgZPu0w0nKstHgxJDCVu5SB_h-cKNbJhn1zDNg/edit?usp=sharing) (L, LAB; EN) – for Master students
 -   [Analysis of OMICS Data](https://docs.google.com/document/d/1z0--wXp5lenl1WI-p8CLCsZRuaJbkdgog1cmJpR7wlg/edit?usp=drive_link) (P; EN) –  for Master students. The course has also been included in the [CHARM-EU Course Catalogue](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/).
 -   [Advanced R programming](https://docs.google.com/document/d/1dELpBDaK-tF1q1sN_qn5w_2mBkjiLxCwtGDT-ZOyKHc/edit?usp=sharing) (P; EN) – for Master students
 -   [Phylogenetics]((https://docs.google.com/document/d/17pzfVzzXAVD07_-o5srMJ9eFUK4fjthG3Z1WjKIsWJ0/edit?usp=drive_link)) (L, P; EN) – for Master students
