@@ -258,6 +258,7 @@ title: "*Curriculum Vitae* – Ari Eszter"
 ::: {.justify}
 
 -   A [TFLink](https://tflink.net/) transzkripciós faktor - célgén adatbázis létrehozásának és fejlesztésének irányítása.
+-   A [BacCurate](https://baccurate.org) bakteriális szekvenálási metaadatok standardizálására létrehozott weboldal és adatbázis fejlesztésének irányítása.
 -   A [mulea](https://cran.r-project.org/web/packages/mulea/) és [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) funkcionális dúsulást vizsgáló *R* csomag és adatszett létrehozásának irányítása.
 -   A *treetune* [*R*](https://github.com/ELTEbioinformatics/treetune) és [*Python*](https://pypi.org/project/treepruner/) csomag létrehozásának irányítása, mellyel a filogenetikai fák túlságosan hosszú ágait lehet lemetszeni.
 

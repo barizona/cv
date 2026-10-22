@@ -245,6 +245,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 ::: {.justify}
 
 -   Supervising the creation of the [TFLink](https://tflink.net/), a transcription factor - target gene database.
+-   Supervising the creation of [BacCurate](https://baccurate.org) database, that contains standardised sequencing metadata of bacterial isolates.
 -   Supervising the creation of the [mulea](https://cran.r-project.org/web/packages/mulea/) and the [muleaData](https://bioconductor.org/packages/release/data/experiment/html/muleaData.html) *R* packages for functional enrichment analysis and dataset.
 -   Supervising the creation of the *treetune* [*R*](https://github.com/ELTEbioinformatics/treetune) and [*Python*](https://pypi.org/project/treepruner/) packages for pruning too long branches of phyloegnetic trees.
 
