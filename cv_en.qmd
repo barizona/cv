@@ -37,10 +37,10 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 > H-1117, Pázmány Péter stny. 1/C, Budapest, Hungary
 
--   2025 - present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Bioinformatics specialisation.
--   2019 - 2025: Assistant professor
--   2009 - 2019: Assistant lecturer
--   2007 - 2009: Scientific research associate
+-   2025 – present: *Role*: Teaching various bioinformatics courses to biology master and graduate students. Supervising undergraduate and graduate students. Coordinating the Bioinformatics specialisation.
+-   2019 – 2025: Assistant professor
+-   2009 – 2019: Assistant lecturer
+-   2007 – 2009: Scientific research associate
 
 **Research fellow – HUN-REN**[^cv_en-1] **Biological Research Centre (BRC), Institute of Biochemistry, Szeged**
 
@@ -48,11 +48,11 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 > H-6726, Temesvári krt. 62, Szeged, Hungary
 
--   2016 - present: Investigating the evolution of antibiotic resistance and virulence using phylogenetic and comparative genomics approaches in Balázs Papp’s Lab, from 2020 as a project leader.
+-   2016 – present: Investigating the evolution of antibiotic resistance and virulence using phylogenetic and comparative genomics approaches in Balázs Papp’s Lab, from 2020 as a project leader.
 
 **Research fellow – HUN-REN Office for Supported Research Groups, Budapest**
 
--   2025 - present
+-   2025 – present
 
 :::
 
@@ -62,11 +62,11 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 **Research fellow – Hungarian Centre of Excellence for Molecular Medicine (HCEMM), Metabolic Systems Biology Research Group, Szeged**
 
--   2019 - 2025
+-   2019 – 2025
 
 **Postdoctoral researcher – Univ. of Veterinary Medicine (Vet-Med Uni), Institut für Populationsgenetik, Vienna, A**
 
--   2012 - 2014: Analysing the RNA-seq data of thermal adapted fruit fly populations in Christian Schlötterer’s Lab.
+-   2012 – 2014: Analysing the RNA-seq data of thermal adapted fruit fly populations in Christian Schlötterer’s Lab.
 
 :::
 
@@ -76,7 +76,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 -   **Habilitation**: ELTE, Budapest, H, 2023
 -   **PhD**: Biology Doctoral School, Theoretical and Evolutionary Biology Doctoral Programme, ELTE, Budapest, H, 2012
--   **Bachelor and Master**: Majoring in Applied Zoology, Faculty of Veterinary Sciences[^cv_en-2], Szent István University, Budapest, H, 1999 - 2004
+-   **Bachelor and Master**: Majoring in Applied Zoology, Faculty of Veterinary Sciences[^cv_en-2], Szent István University, Budapest, H, 1999 – 2004
 
 :::
 
@@ -91,7 +91,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   Opening Up Science Award from Excellence Fund of Eötvös Loránd University, 2026
 -   Outstanding Scientific Publication Award from Excellence Fund of Eötvös Loránd University, 2024 and 2022
 -   Junior fellowship at Collegium Budapest – Institute for Advanced Study, 2009
--   Scholarship of the Fac. Veterinary Sci., Szent István Univ., 2003 - 2004
+-   Scholarship of the Fac. Veterinary Sci., Szent István Univ., 2003 – 2004
 -   2^nd^ Prize of the Conference for Student Scientists at Fac. Veterinary Sci., Szent István Univ., 2003
 
 :::
@@ -100,11 +100,11 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 ::: {.justify}
 
--   **Supported Research Groups Programme 2025 - 2027**: *Role*: co-applicant; *Title*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *PI*: Balázs Papp; *Number*: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
+-   **Supported Research Groups Programme 2025 – 2027**: *Role*: co-applicant; *Title*: Genomic surveillance for precision therapies against antibiotic-resistant bacteria; *PI*: Balázs Papp; *Number*: TKCS-2024/66; amount awarded to ELTE: 30,000,000 HUF
 -   **ELTE international online courses 2025 and 2026**: the "Analysis of OMICS Data PR" was selected as a course in [CHARM-EU](https://charm-eu.eu/transnational-course/analysis-of-omics-data-pr-2/); 2 × 500,000 HUF
--   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme 2020 - 2023**: *Role*: Principal investigator; *Title*: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; *Number*: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
+-   **Hungarian National Research Fund Grant – Postdoctoral Excellence Programme 2020 – 2023**: *Role*: Principal investigator; *Title*: How do 'superbugs' emerge? - A systematic study of the mobility of resistance and virulence genes in human microbiota and pathogenic bacteria; *Number*: [131839](http://nyilvanos.otka-palyazat.hu/index.php?menuid=930&num=131839&lang=EN); 25,500,000 HUF
 -   **Promoting Excellence in Education, ELTE 2020**: *Role*: Principal investigator; *Title*: Development of the infrastructure of the computer practical room; 4,000,000 HUF
--   **Visegrad 4 Eastern Partnership (V4Eap) 2014 - 2015**; *Role*: Supervisor; Connected to the fellowship of Zeljko Popovic; *Title*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
+-   **Visegrad 4 Eastern Partnership (V4Eap) 2014 – 2015**; *Role*: Supervisor; Connected to the fellowship of Zeljko Popovic; *Title*: DORMANCYbase – developing a database on gene and protein expression during dormancy in animals; 3,000 EUR
 
 :::
 
@@ -183,7 +183,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 
 ::: {.justify}
 
--   [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home): 2016 – **member of the directory board**; 2006 – member
+-   [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home): 2026 – **vice president**; 2016 – member of the directory board; 2006 – member
 -   Hungarian Academy of Sciences, Interdepartmental Scientific Committee on Bioinformatics: 2021 – **committee member**
 -   Hungarian node of the [Elixir Europe](https://elixir-europe.org/about-us/who-we-are/nodes/hungary): 2023 – **lead researcher**
 -   [Institute of Scientific Computing, Society](https://scicomp.hu/?lang=en) (SciComp): 2024 – member
@@ -237,7 +237,7 @@ title: "*Curriculum Vitae* of Eszter Ari"
 -   Presenting at the Festival of ELTE: Global map of evolutionary dependencies between antibiotic resistance and virulence genes in *E. coli*. 2022, Budapest, H
 -   Creating a website for The genomic epidemiology of SARS-CoV-2 in Hungary
 -   Presenting at Capital of Science “Tudományok Fővárosa”: The genomic epidemiology of SARS-CoV-2 in Hungary, 2020, Budapest, H
--   Presenting at Night of Scientists “Kutatók Éjszakája”, 2018 and 2020
+-   Presenting at Night of Scientists “Kutatók Éjszakája”, 2018, 2020, and 2026
 
 :::
 
